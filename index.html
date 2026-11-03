@@ -1,0 +1,43 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Ballot Match</title>
+<meta name="description" content="A nonpartisan look at what's on your ballot. Answer 10 questions and see how every candidate's own record lines up with yours, in plain English, with sources.">
+<meta name="theme-color" content="#FFFFFF">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:ital,wght@0,400;0,500;0,600;0,700;0,800;1,400&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<a class="skip" href="#main">Skip to content</a>
+<div class="flagbar" aria-hidden="true"></div>
+<header class="top">
+  <div class="wrap top-in">
+    <a class="brand" href="#start"><span class="brand-oval" aria-hidden="true"></span>Ballot Match</a>
+    <span class="place" id="place"></span>
+    <nav aria-label="Main">
+      <a href="#quiz" data-nav="quiz">Questions</a>
+      <a href="#races" data-nav="races">Candidates</a>
+      <a href="#compare" data-nav="compare">Compare</a>
+      <a href="#amendments" data-nav="amendments">Amendments</a>
+      <a href="#congress" data-nav="congress">Congress</a>
+      <a href="#parties" data-nav="parties">Parties</a>
+      <a href="#words" data-nav="words">Words to know</a>
+      <a href="#about" data-nav="about">How it works</a>
+    </nav>
+  </div>
+</header>
+<main id="main" class="wrap" tabindex="-1"></main>
+<footer class="foot">
+  <div class="wrap">
+    <p>Ballot Match is a free, nonpartisan civic project from <a href="https://cstonelabs.com">CornerStone Labs</a>. We don't endorse candidates or tell anyone how to vote, and no campaign or party has paid for or reviewed this site.</p>
+    <p>Found a mistake, or want to say something? <a href="#about" data-contact="mistake">Contact us</a>. Last updated <span id="updated"></span>.</p>
+  </div>
+</footer>
+<script src="data.js"></script>
+<script src="app.js"></script>
+</body>
+</html>
