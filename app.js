@@ -227,7 +227,7 @@
     else if (now < cc) html = '<b>Polls in the western Panhandle close in <span class="t">' + span(cc - now) + "</span></b> (7 p.m. Central). In line by 7? You can still vote.";
     else if (k.next && now < Date.parse(k.next.date)) html = '<b>Next statewide election in <span class="t">' + span(Date.parse(k.next.date) - now) + "</span>:</b> " + esc(k.next.name) + ", " + esc(k.next.label) + '. <button type="button" class="linkish" id="nextWhy">Why this date?</button>';
     else { bar.hidden = true; return; }
-    bar.hidden = !ready();
+    bar.hidden = !!chosen() && !ready();
     bar.className = "clock" + (now >= open && now < cc ? " live" : "");
     bar.innerHTML = '<div class="wrap">' + html + "</div>";
     var w = document.getElementById("nextWhy");

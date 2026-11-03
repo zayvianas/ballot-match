@@ -3939,6 +3939,3532 @@ window.BALLOT = {
    ]
   },
   {
+   "id": "h8",
+   "district": 8,
+   "title": "U.S. House, District 8",
+   "blurb": "Counties: Brevard, Orange (part). Your representative votes on federal laws, taxes and spending for a two-year term.",
+   "notes": "",
+   "candidates": [
+    {
+     "name": "Mike Haridopolos",
+     "mate": null,
+     "party": "Republican",
+     "writeIn": false,
+     "site": "https://mike4congress.com",
+     "bio": "Mike Haridopolos was born in 1970 in Huntington, New York, and lives in Indian Harbour Beach in Brevard County. He taught history and political science at Brevard Community College and served in the Florida Legislature from 2000 to 2012, including two years as Florida Senate president. He has represented District 8 in Congress since January 2025 (about two years); the district kept the same number after redistricting.",
+     "incumbent": "Current member of Congress",
+     "profile": {
+      "bio": "Mike Haridopolos was born in 1970 in Huntington, New York, and lives in Indian Harbour Beach in Brevard County. He taught history and political science at Brevard Community College and served in the Florida Legislature from 2000 to 2012, including two years as Florida Senate president. He has represented District 8 in Congress since January 2025 (about two years); the district kept the same number after redistricting.",
+      "record": [
+       {
+        "text": "Served in the Florida House (2000-2003) and Florida Senate (2003-2012), and was Senate president from 2010 to 2012.",
+        "source_url": "https://www.wikiwand.com/en/articles/Mike_Haridopolos",
+        "date": "accessed 2026-11-03"
+       },
+       {
+        "text": "Won the open District 8 seat in November 2024 with about 62% of the vote after Rep. Bill Posey retired.",
+        "source_url": "https://haridopolos.house.gov/about",
+        "date": "accessed 2026-11-03"
+       },
+       {
+        "text": "Voted yes on the 2025 tax and spending law (One Big Beautiful Bill Act), which made the 2017 tax cuts permanent and reduced future spending on Medicaid and SNAP (food aid). It passed 218-214.",
+        "source_url": "https://clerk.house.gov/Votes/2025190",
+        "date": "2025-07-03"
+       },
+       {
+        "text": "Voted yes on the Laken Riley Act, which requires federal detention of immigrants without legal status who are charged with theft or violent crimes. It passed 263-156.",
+        "source_url": "https://clerk.house.gov/evs/2025/roll023",
+        "date": "2025-01-22"
+       },
+       {
+        "text": "Voted yes on the SAVE Act, which would require documents proving U.S. citizenship to register to vote in federal elections. It passed 220-208.",
+        "source_url": "https://clerk.house.gov/evs/2025/roll102",
+        "date": "2025-04-10"
+       }
+      ],
+      "onRecord": [
+       {
+        "text": "In 2010 the Florida Commission on Ethics found probable cause that he did not fully report his finances on state disclosure forms for 2004 through 2008. In March 2011 the Florida Senate voted unanimously to publicly reprimand him; a Senate committee accepted that the error was not intentional.",
+        "response": "He acknowledged mistakes on past forms, said they were unintentional, and filed corrected forms.",
+        "status": "Resolved in 2011 with a public reprimand by the Florida Senate.",
+        "source_url": "https://sunshinestatenews.com/blog/senate-reprimands-senate-president-mike-haridopolos",
+        "date": "2011-03-09"
+       }
+      ],
+      "people": {
+       "police_and_public": [],
+       "immigrants": [
+        {
+         "text": "Voted yes on the Laken Riley Act, which requires federal detention of immigrants without legal status who are charged with theft or violent crimes.",
+         "source_url": "https://clerk.house.gov/evs/2025/roll023",
+         "date": "2025-01-22"
+        }
+       ],
+       "housing": [],
+       "struggling_families": [
+        {
+         "text": "Voted yes on the 2025 tax and spending law (One Big Beautiful Bill Act), which made the 2017 tax cuts permanent and reduced future spending on Medicaid and SNAP (food aid).",
+         "source_url": "https://clerk.house.gov/Votes/2025190",
+         "date": "2025-07-03"
+        }
+       ],
+       "race_civil_rights": [
+        {
+         "text": "Voted yes on the SAVE Act, which would require documents proving U.S. citizenship to register to vote in federal elections.",
+         "source_url": "https://clerk.house.gov/evs/2025/roll102",
+         "date": "2025-04-10"
+        }
+       ],
+       "lgbtq": [
+        {
+         "text": "Voted yes on the Protection of Women and Girls in Sports Act, which would bar transgender girls and women from girls' and women's school sports teams.",
+         "source_url": "https://clerk.house.gov/evs/2025/roll012",
+         "date": "2025-01-14"
+        }
+       ],
+       "disability_veterans": [],
+       "faith": []
+      }
+     },
+     "stances": [
+      {
+       "issue": "Immigration enforcement",
+       "found": true,
+       "summary": "Supports President Trump's border and deportation measures. Says he led the fight against a Florida bill that would have let people in the country illegally get driver's licenses.",
+       "url": "https://www.clickorlando.com/voters-guide/2026/10/16/2026-voters-guide-us-house-district-8/",
+       "type": "campaign website and public statements, summarized in News 6 voter guide (he did not answer its questionnaire)",
+       "date": "2026-10-16",
+       "q": "immigration",
+       "agree": 5,
+       "pos": 5,
+       "note": null
+      },
+      {
+       "issue": "Taxes",
+       "found": true,
+       "summary": "Credits Trump-era tax cuts with helping small businesses and says he will oppose federal rules that hurt small businesses and families.",
+       "url": "https://www.clickorlando.com/voters-guide/2026/10/16/2026-voters-guide-us-house-district-8/",
+       "type": "campaign website, summarized in News 6 voter guide",
+       "date": "2026-10-16",
+       "q": "taxes",
+       "agree": 5,
+       "pos": 1,
+       "note": null
+      },
+      {
+       "issue": "Cost of living",
+       "found": true,
+       "summary": "Says he will oppose federal mandates (required rules) that raise costs for small businesses and families, and lists reducing the national debt as a priority.",
+       "url": "https://www.clickorlando.com/voters-guide/2026/10/16/2026-voters-guide-us-house-district-8/",
+       "type": "campaign website, summarized in News 6 voter guide",
+       "date": "2026-10-16",
+       "q": "afford",
+       "agree": 2,
+       "pos": 2,
+       "note": null
+      },
+      {
+       "issue": "Health care",
+       "found": true,
+       "summary": "Supports free-market competition on prices and opposes a single-payer system (one government plan covering everyone).",
+       "url": "https://www.clickorlando.com/voters-guide/2026/10/16/2026-voters-guide-us-house-district-8/",
+       "type": "campaign website, summarized in News 6 voter guide",
+       "date": "2026-10-16",
+       "q": "health",
+       "agree": 1,
+       "pos": 1,
+       "note": null
+      },
+      {
+       "issue": "Guns",
+       "found": true,
+       "summary": "Says he supports Second Amendment gun rights. No specific gun bills or limits were stated.",
+       "url": "https://www.clickorlando.com/voters-guide/2026/10/16/2026-voters-guide-us-house-district-8/",
+       "type": "campaign website, summarized in News 6 voter guide",
+       "date": "2026-10-16",
+       "q": "guns",
+       "agree": null,
+       "pos": null,
+       "note": null
+      },
+      {
+       "issue": "Environment and climate",
+       "found": true,
+       "summary": "Lists protecting the Indian River Lagoon as a priority. No stated position on climate change.",
+       "url": "https://www.clickorlando.com/voters-guide/2026/10/16/2026-voters-guide-us-house-district-8/",
+       "type": "campaign website, summarized in News 6 voter guide",
+       "date": "2026-10-16",
+       "q": "environment",
+       "agree": null,
+       "pos": null,
+       "note": null
+      },
+      {
+       "issue": "Abortion",
+       "found": false,
+       "summary": "",
+       "url": "",
+       "type": "",
+       "date": "",
+       "q": null,
+       "agree": null,
+       "pos": null,
+       "note": null
+      },
+      {
+       "issue": "Foreign policy and the military",
+       "found": false,
+       "summary": "",
+       "url": "",
+       "type": "",
+       "date": "",
+       "q": null,
+       "agree": null,
+       "pos": null,
+       "note": null
+      },
+      {
+       "issue": "Social Security and Medicare",
+       "found": false,
+       "summary": "",
+       "url": "",
+       "type": "",
+       "date": "",
+       "q": null,
+       "agree": null,
+       "pos": null,
+       "note": null
+      },
+      {
+       "issue": "Public safety",
+       "found": false,
+       "summary": "",
+       "url": "",
+       "type": "",
+       "date": "",
+       "q": null,
+       "agree": null,
+       "pos": null,
+       "note": null
+      }
+     ]
+    },
+    {
+     "name": "Jennifer Jenkins",
+     "mate": null,
+     "party": "Democrat",
+     "writeIn": false,
+     "site": "https://jenkinsforfl.com",
+     "bio": "Jennifer Jenkins, 39, is a speech-language pathologist and former teacher who is raising her family in Brevard County. She was elected to the Brevard County School Board in 2020 and in 2024 started Educated We Stand, a national group that supports public schools. She ran for U.S. Senate in 2025 before switching to a U.S. House race.",
+     "incumbent": "",
+     "profile": {
+      "bio": "Jennifer Jenkins, 39, is a speech-language pathologist and former teacher who is raising her family in Brevard County. She was elected to the Brevard County School Board in 2020 and in 2024 started Educated We Stand, a national group that supports public schools. She ran for U.S. Senate in 2025 before switching to a U.S. House race.",
+      "record": [
+       {
+        "text": "Won a Brevard County School Board seat in 2020, defeating incumbent Tina Descovich, who later co-founded Moms for Liberty.",
+        "source_url": "https://www.cbsnews.com/amp/miami/news/florida-jennifer-jenkins-democrat-brevard-county-ashley-moody-2026-election",
+        "date": "2025-09-11"
+       },
+       {
+        "text": "Founded Educated We Stand, a national political group focused on public education, in 2024.",
+        "source_url": "https://www.cbsnews.com/amp/miami/news/florida-jennifer-jenkins-democrat-brevard-county-ashley-moody-2026-election",
+        "date": "2025-09-11"
+       },
+       {
+        "text": "Launched a 2026 U.S. Senate campaign against Sen. Ashley Moody in September 2025, then left that race in January 2026 and endorsed Alex Vindman.",
+        "source_url": "https://www.asha.org/news/2025/asha-certified-slp-pursues-public-service-through-florida-senate-campaign/",
+        "date": "2026-08-19"
+       },
+       {
+        "text": "Ran next in District 6, then announced on May 5, 2026, that she would run in District 8 after the new map was adopted.",
+        "source_url": "https://www.tampafp.com/jenkins-jumps-again-third-campaign-shift-sparks-florida-gop-criticism/",
+        "date": "2026-05-05"
+       },
+       {
+        "text": "Won the Democratic nomination for District 8 in the August 18, 2026 primary.",
+        "source_url": "https://www.asha.org/news/2025/asha-certified-slp-pursues-public-service-through-florida-senate-campaign/",
+        "date": "2026-08-19"
+       }
+      ],
+      "onRecord": [],
+      "people": {
+       "police_and_public": [],
+       "immigrants": [
+        {
+         "text": "Says civil liberties should be protected for citizens and immigrants alike.",
+         "source_url": "https://www.clickorlando.com/voters-guide/2026/10/16/2026-voters-guide-us-house-district-8/",
+         "date": "2026-10-16"
+        }
+       ],
+       "housing": [],
+       "struggling_families": [
+        {
+         "text": "Supports expanding Medicaid and restoring ACA (Obamacare) premium help for working families.",
+         "source_url": "https://www.clickorlando.com/voters-guide/2026/10/16/2026-voters-guide-us-house-district-8/",
+         "date": "2026-10-16"
+        }
+       ],
+       "race_civil_rights": [],
+       "lgbtq": [
+        {
+         "text": "As a school board member she was known for advocating for LGBTQIA+ students.",
+         "source_url": "https://www.asha.org/news/2025/asha-certified-slp-pursues-public-service-through-florida-senate-campaign/",
+         "date": "2026-08-19"
+        }
+       ],
+       "disability_veterans": [
+        {
+         "text": "On the school board she was known for speaking up for students with disabilities; she now calls for fully funding IDEA (the federal special education law) and defending Section 504 (disability rights in schools).",
+         "source_url": "https://www.clickorlando.com/voters-guide/2026/10/16/2026-voters-guide-us-house-district-8/",
+         "date": "2026-10-16"
+        }
+       ],
+       "faith": []
+      }
+     },
+     "stances": [
+      {
+       "issue": "Cost of living",
+       "found": true,
+       "summary": "Wants to steady Florida's property insurance market with federal reinsurance (government backup coverage for insurers) and opposes tariffs (taxes on imports) that raise everyday prices.",
+       "url": "https://www.clickorlando.com/voters-guide/2026/10/16/2026-voters-guide-us-house-district-8/",
+       "type": "campaign website, summarized in News 6 voter guide (she did not answer its questionnaire)",
+       "date": "2026-10-16",
+       "q": "afford",
+       "agree": 4,
+       "pos": 4,
+       "note": null
+      },
+      {
+       "issue": "Health care",
+       "found": true,
+       "summary": "Supports expanding Medicaid, restoring Affordable Care Act (ACA, Obamacare) premium subsidies, protecting coverage for pre-existing conditions, and more mental health care.",
+       "url": "https://www.clickorlando.com/voters-guide/2026/10/16/2026-voters-guide-us-house-district-8/",
+       "type": "campaign website, summarized in News 6 voter guide",
+       "date": "2026-10-16",
+       "q": "health",
+       "agree": 4,
+       "pos": 4,
+       "note": null
+      },
+      {
+       "issue": "Abortion",
+       "found": true,
+       "summary": "In a 2025 interview for her Senate race, she promised to protect safe and legal abortion access.",
+       "url": "https://www.clickorlando.com/voters-guide/2026/10/16/2026-voters-guide-us-house-district-8/",
+       "type": "2025 interview, cited in News 6 voter guide",
+       "date": "2026-10-16",
+       "q": "abortion",
+       "agree": 5,
+       "pos": 5,
+       "note": null
+      },
+      {
+       "issue": "Environment and climate",
+       "found": true,
+       "summary": "Pledged to back policies that address environmental and climate problems, and has supported pausing new data centers in the district.",
+       "url": "https://www.clickorlando.com/voters-guide/2026/10/16/2026-voters-guide-us-house-district-8/",
+       "type": "social media posts, cited in News 6 voter guide",
+       "date": "2026-10-16",
+       "q": "environment",
+       "agree": 4,
+       "pos": 4,
+       "note": null
+      },
+      {
+       "issue": "Public safety",
+       "found": true,
+       "summary": "Supports steady funding, training and mental health help for first responders, and evidence-based (proven by research) ways to reduce violence.",
+       "url": "https://www.clickorlando.com/voters-guide/2026/10/16/2026-voters-guide-us-house-district-8/",
+       "type": "campaign website, summarized in News 6 voter guide",
+       "date": "2026-10-16",
+       "q": "safety",
+       "agree": 3,
+       "pos": 3,
+       "note": null
+      },
+      {
+       "issue": "Taxes",
+       "found": false,
+       "summary": "",
+       "url": "",
+       "type": "",
+       "date": "",
+       "q": null,
+       "agree": null,
+       "pos": null,
+       "note": null
+      },
+      {
+       "issue": "Immigration enforcement",
+       "found": false,
+       "summary": "",
+       "url": "",
+       "type": "",
+       "date": "",
+       "q": null,
+       "agree": null,
+       "pos": null,
+       "note": null
+      },
+      {
+       "issue": "Guns",
+       "found": false,
+       "summary": "",
+       "url": "",
+       "type": "",
+       "date": "",
+       "q": null,
+       "agree": null,
+       "pos": null,
+       "note": null
+      },
+      {
+       "issue": "Foreign policy and the military",
+       "found": false,
+       "summary": "",
+       "url": "",
+       "type": "",
+       "date": "",
+       "q": null,
+       "agree": null,
+       "pos": null,
+       "note": null
+      },
+      {
+       "issue": "Social Security and Medicare",
+       "found": false,
+       "summary": "",
+       "url": "",
+       "type": "",
+       "date": "",
+       "q": null,
+       "agree": null,
+       "pos": null,
+       "note": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "h9",
+   "district": 9,
+   "title": "U.S. House, District 9",
+   "blurb": "Counties: Indian River, Okeechobee, Highlands, Glades; Orange, Osceola, Polk (part). Your representative votes on federal laws, taxes and spending for a two-year term.",
+   "notes": "",
+   "candidates": [
+    {
+     "name": "Darren Soto",
+     "mate": null,
+     "party": "Democrat",
+     "writeIn": false,
+     "site": "https://www.darrensoto.com",
+     "bio": "Darren Soto was born in 1978 in Ringwood, New Jersey, and is an attorney based in Central Florida. He earned degrees from Rutgers University and George Washington University's law school, then served in the Florida House (2007-2012) and Florida Senate (2012-2016). He has represented District 9 since January 2017 (about 10 years) and was the first person of Puerto Rican descent elected to Congress from Florida; the 2026 map kept the number but redrew the district to lean Republican.",
+     "incumbent": "Current member of Congress",
+     "profile": {
+      "bio": "Darren Soto was born in 1978 in Ringwood, New Jersey, and is an attorney based in Central Florida. He earned degrees from Rutgers University and George Washington University's law school, then served in the Florida House (2007-2012) and Florida Senate (2012-2016). He has represented District 9 since January 2017 (about 10 years) and was the first person of Puerto Rican descent elected to Congress from Florida; the 2026 map kept the number but redrew the district to lean Republican.",
+      "record": [
+       {
+        "text": "Served in the Florida House from 2007 to 2012 and the Florida Senate from 2012 to 2016.",
+        "source_url": "https://en.wikipedia.org/wiki/Darren_Soto",
+        "date": "accessed 2026-11-03"
+       },
+       {
+        "text": "Sponsored the Puerto Rico Statehood Admissions Act, which passed the House but did not get a Senate vote.",
+        "source_url": "https://en.wikipedia.org/wiki/Darren_Soto",
+        "date": "accessed 2026-11-03"
+       },
+       {
+        "text": "Voted no on the 2025 tax and spending law (One Big Beautiful Bill Act), which made the 2017 tax cuts permanent and reduced future spending on Medicaid and SNAP (food aid).",
+        "source_url": "https://clerk.house.gov/Votes/2025190",
+        "date": "2025-07-03"
+       },
+       {
+        "text": "Voted no on the Laken Riley Act, which requires federal detention of immigrants without legal status who are charged with theft or violent crimes, saying people only accused of minor crimes could be wrongly deported.",
+        "source_url": "https://floridaphoenix.com/2025/01/21/central-florida-dem-rep-darren-soto-on-why-he-cant-support-the-laken-riley-act/",
+        "date": "2025-01-21"
+       },
+       {
+        "text": "On January 6, 2021, voted to count all states' 2020 electoral votes and against the objections to Arizona and Pennsylvania.",
+        "source_url": "https://patch.com/florida/southtampa/electoral-college-count-how-fls-congressional-delegation-voted",
+        "date": "2021-01-07"
+       }
+      ],
+      "onRecord": [],
+      "people": {
+       "police_and_public": [],
+       "immigrants": [
+        {
+         "text": "Voted against the Laken Riley Act, which requires federal detention of immigrants without legal status who are charged with theft or violent crimes, and asked for changes to protect Dreamers (people brought to the U.S. as children) and TPS holders.",
+         "source_url": "https://floridaphoenix.com/2025/01/21/central-florida-dem-rep-darren-soto-on-why-he-cant-support-the-laken-riley-act/",
+         "date": "2025-01-21"
+        }
+       ],
+       "housing": [
+        {
+         "text": "Voted for the 21st Century Road to Housing Act and proposes more money for first-time homebuyer and VA home loans plus flood insurance changes.",
+         "source_url": "https://www.clickorlando.com/voters-guide/2026/10/16/2026-voters-guide-us-house-district-9/",
+         "date": "2026-10-16"
+        }
+       ],
+       "struggling_families": [
+        {
+         "text": "Wants to reverse recent cuts to Medicaid and SNAP (food aid).",
+         "source_url": "https://www.clickorlando.com/voters-guide/2026/10/16/2026-voters-guide-us-house-district-9/",
+         "date": "2026-10-16"
+        }
+       ],
+       "race_civil_rights": [
+        {
+         "text": "Voted no on the SAVE Act, which would require documents proving U.S. citizenship to register to vote in federal elections.",
+         "source_url": "https://clerk.house.gov/evs/2025/roll102",
+         "date": "2025-04-10"
+        }
+       ],
+       "lgbtq": [
+        {
+         "text": "Voted yes on the Respect for Marriage Act, which requires federal and state recognition of same-sex and interracial marriages.",
+         "source_url": "https://clerk.house.gov/evs/2022/roll513",
+         "date": "2022-12-08"
+        },
+        {
+         "text": "Sponsored the law designating the Pulse nightclub site in Orlando as a national memorial (2020).",
+         "source_url": "https://en.wikipedia.org/wiki/Darren_Soto",
+         "date": "accessed 2026-11-03"
+        }
+       ],
+       "disability_veterans": [
+        {
+         "text": "Lists protecting veterans' health care and expanding VA home loans among his priorities.",
+         "source_url": "https://www.clickorlando.com/voters-guide/2026/10/16/2026-voters-guide-us-house-district-9/",
+         "date": "2026-10-16"
+        }
+       ],
+       "faith": []
+      }
+     },
+     "stances": [
+      {
+       "issue": "Cost of living",
+       "found": true,
+       "summary": "Blames tariffs (taxes on imports) and the Iran war for higher prices. Wants more affordable housing, a bigger Low-Income Housing Tax Credit (tax break for building cheaper rentals), and more tax relief.",
+       "url": "https://www.clickorlando.com/voters-guide/2026/10/16/2026-voters-guide-us-house-district-9/",
+       "type": "News 6 voter guide questionnaire",
+       "date": "2026-10-16",
+       "q": "afford",
+       "agree": 4,
+       "pos": 4,
+       "note": null
+      },
+      {
+       "issue": "Taxes",
+       "found": true,
+       "summary": "Voted against the 2025 tax and spending law (One Big Beautiful Bill Act) that made the 2017 tax cuts permanent. Says he wants to expand tax relief for families.",
+       "url": "https://clerk.house.gov/Votes/2025190",
+       "type": "voting record",
+       "date": "2025-07-03",
+       "q": "taxes",
+       "agree": 2,
+       "pos": 4,
+       "note": null
+      },
+      {
+       "issue": "Health care",
+       "found": true,
+       "summary": "Wants to reverse cuts to the Affordable Care Act (ACA, Obamacare), Medicaid and SNAP (food aid), lower prescription drug costs, and expand mental health care.",
+       "url": "https://www.clickorlando.com/voters-guide/2026/10/16/2026-voters-guide-us-house-district-9/",
+       "type": "News 6 voter guide questionnaire",
+       "date": "2026-10-16",
+       "q": "health",
+       "agree": 4,
+       "pos": 4,
+       "note": null
+      },
+      {
+       "issue": "Social Security and Medicare",
+       "found": true,
+       "summary": "Pledges to protect Social Security and Medicare.",
+       "url": "https://www.clickorlando.com/voters-guide/2026/10/16/2026-voters-guide-us-house-district-9/",
+       "type": "News 6 voter guide questionnaire",
+       "date": "2026-10-16",
+       "q": null,
+       "agree": null,
+       "pos": 5,
+       "note": null
+      },
+      {
+       "issue": "Immigration enforcement",
+       "found": true,
+       "summary": "Opposed the Laken Riley Act without changes, saying jailing people only accused of minor crimes breaks due process (fair legal treatment) and could deport Dreamers and TPS (Temporary Protected Status) holders. Opposes mass deportations.",
+       "url": "https://floridaphoenix.com/2025/01/21/central-florida-dem-rep-darren-soto-on-why-he-cant-support-the-laken-riley-act/",
+       "type": "interview / voting record",
+       "date": "2025-01-21",
+       "q": "immigration",
+       "agree": 2,
+       "pos": 2,
+       "note": null
+      },
+      {
+       "issue": "Abortion",
+       "found": true,
+       "summary": "Voted for the Women's Health Protection Act, which would have made abortion access a federal legal right.",
+       "url": "https://clerk.house.gov/evs/2022/roll360",
+       "type": "voting record",
+       "date": "2022-07-15",
+       "q": "abortion",
+       "agree": 5,
+       "pos": 5,
+       "note": null
+      },
+      {
+       "issue": "Guns",
+       "found": true,
+       "summary": "Has supported universal background checks and red-flag laws (court orders to take guns from people judged dangerous), and voted for a 2019 background check bill.",
+       "url": "https://en.wikipedia.org/wiki/Darren_Soto",
+       "type": "voting record and public positions",
+       "date": "accessed 2026-11-03",
+       "q": "guns",
+       "agree": 4,
+       "pos": 4,
+       "note": null
+      },
+      {
+       "issue": "Environment and climate",
+       "found": true,
+       "summary": "Makes clean water a priority, pointing to restoration of the Kissimmee River, Lake Toho and the Indian River Lagoon, plus flood control and sewer upgrades.",
+       "url": "https://www.clickorlando.com/voters-guide/2026/10/16/2026-voters-guide-us-house-district-9/",
+       "type": "News 6 voter guide questionnaire",
+       "date": "2026-10-16",
+       "q": "environment",
+       "agree": 4,
+       "pos": 4,
+       "note": null
+      },
+      {
+       "issue": "Foreign policy and the military",
+       "found": true,
+       "summary": "Voted for the 2024 bill sending about $61 billion in military and other aid to Ukraine.",
+       "url": "https://clerk.house.gov/evs/2024/roll151",
+       "type": "voting record",
+       "date": "2024-04-20",
+       "q": null,
+       "agree": null,
+       "pos": 4,
+       "note": null
+      },
+      {
+       "issue": "Public safety",
+       "found": false,
+       "summary": "",
+       "url": "",
+       "type": "",
+       "date": "",
+       "q": null,
+       "agree": null,
+       "pos": null,
+       "note": null
+      }
+     ]
+    },
+    {
+     "name": "Dan Green",
+     "mate": null,
+     "party": "Republican",
+     "writeIn": false,
+     "site": "https://dangreenfl.com",
+     "bio": "Dan Green, 50, lives in Vero Beach and is a captain in the U.S. Navy Reserve with 23 years of service, including five deployments to Iraq and Afghanistan. He has a PhD in American politics from George Washington University and worked at the Defense and State departments, including as a deputy assistant secretary of defense from 2019 to 2021. He has never held elected office.",
+     "incumbent": "",
+     "profile": {
+      "bio": "Dan Green, 50, lives in Vero Beach and is a captain in the U.S. Navy Reserve with 23 years of service, including five deployments to Iraq and Afghanistan. He has a PhD in American politics from George Washington University and worked at the Defense and State departments, including as a deputy assistant secretary of defense from 2019 to 2021. He has never held elected office.",
+      "record": [
+       {
+        "text": "Served as Deputy Assistant Secretary of Defense for Strategy and Force Development (2019-2021), appointed during President Trump's first term.",
+        "source_url": "https://www.clickorlando.com/voters-guide/2026/10/16/2026-voters-guide-us-house-district-9/",
+        "date": "2026-10-16"
+       },
+       {
+        "text": "Worked at the Defense and State departments from 2001 to 2009, including as a political adviser in Afghanistan; says he was at the Pentagon during the September 11, 2001 attacks.",
+        "source_url": "https://www.newsfromthestates.com/node/421302",
+        "date": "2026-08-07"
+       },
+       {
+        "text": "Led the veterans coalition for Gov. Ron DeSantis's 2022 reelection campaign.",
+        "source_url": "https://www.clickorlando.com/news/local/2026/10/29/soto-and-green-make-their-closing-arguments-ahead-of-tuesdays-election/",
+        "date": "2026-10-30"
+       },
+       {
+        "text": "Won the 2026 Republican primary in a crowded field; he had loaned his campaign more than $1 million by mid-2026.",
+        "source_url": "https://www.newsfromthestates.com/node/421302",
+        "date": "2026-08-07"
+       }
+      ],
+      "onRecord": [],
+      "people": {
+       "police_and_public": [],
+       "immigrants": [
+        {
+         "text": "Says he supports only legal immigration and opposes sanctuary cities.",
+         "source_url": "https://ivoterguide.com/candidate/77073",
+         "date": "2026 (survey, accessed 2026-11-03)"
+        }
+       ],
+       "housing": [
+        {
+         "text": "Calls the federal 21st Century Road to Housing Act a strong step, including zoning changes and limits on big corporations buying single-family homes.",
+         "source_url": "https://www.clickorlando.com/voters-guide/2026/10/16/2026-voters-guide-us-house-district-9/",
+         "date": "2026-10-16"
+        }
+       ],
+       "struggling_families": [],
+       "race_civil_rights": [],
+       "lgbtq": [
+        {
+         "text": "Says he opposes gender transition for minors and transgender women in women's sports, and defines marriage as one man and one woman.",
+         "source_url": "https://ivoterguide.com/candidate/77073",
+         "date": "2026 (survey, accessed 2026-11-03)"
+        }
+       ],
+       "disability_veterans": [],
+       "faith": [
+        {
+         "text": "Says people and businesses should not be required to provide services that violate their religious beliefs; describes himself as a confirmed Lutheran.",
+         "source_url": "https://ivoterguide.com/candidate/77073",
+         "date": "2026 (survey, accessed 2026-11-03)"
+        }
+       ]
+      }
+     },
+     "stances": [
+      {
+       "issue": "Cost of living",
+       "found": true,
+       "summary": "Wants to cut unneeded regulations, make prices easier to see and compare, and support American-made goods.",
+       "url": "https://www.clickorlando.com/voters-guide/2026/10/16/2026-voters-guide-us-house-district-9/",
+       "type": "News 6 voter guide questionnaire",
+       "date": "2026-10-16",
+       "q": "afford",
+       "agree": 2,
+       "pos": 2,
+       "note": null
+      },
+      {
+       "issue": "Taxes",
+       "found": true,
+       "summary": "Opposes raising taxes, disagrees that wealthier people should pay more to fund relief, and supports Florida's amendment to cut property taxes.",
+       "url": "https://ivoterguide.com/candidate/77073",
+       "type": "iVoterGuide candidate survey",
+       "date": "2026 (survey, accessed 2026-11-03)",
+       "q": "taxes",
+       "agree": 5,
+       "pos": 1,
+       "note": null
+      },
+      {
+       "issue": "Immigration enforcement",
+       "found": true,
+       "summary": "Supports only legal immigration and opposes sanctuary cities (places that limit help to federal immigration agents).",
+       "url": "https://ivoterguide.com/candidate/77073",
+       "type": "iVoterGuide candidate survey",
+       "date": "2026 (survey, accessed 2026-11-03)",
+       "q": "immigration",
+       "agree": 4,
+       "pos": 4,
+       "note": null
+      },
+      {
+       "issue": "Health care",
+       "found": true,
+       "summary": "Wants private insurance to stay the main source of coverage, with government help given in a budget-conscious way.",
+       "url": "https://ivoterguide.com/candidate/77073",
+       "type": "iVoterGuide candidate survey",
+       "date": "2026 (survey, accessed 2026-11-03)",
+       "q": "health",
+       "agree": 2,
+       "pos": 2,
+       "note": null
+      },
+      {
+       "issue": "Abortion",
+       "found": true,
+       "summary": "Supports legal protection for life from conception, with exceptions for rape, incest and the mother's life. Wants the Comstock Act (an 1873 law that can restrict mailing abortion pills) enforced.",
+       "url": "https://ivoterguide.com/candidate/77073",
+       "type": "iVoterGuide candidate survey",
+       "date": "2026 (survey, accessed 2026-11-03)",
+       "q": "abortion",
+       "agree": 1,
+       "pos": 1,
+       "note": null
+      },
+      {
+       "issue": "Guns",
+       "found": true,
+       "summary": "Says there are already too many gun restrictions.",
+       "url": "https://ivoterguide.com/candidate/77073",
+       "type": "iVoterGuide candidate survey",
+       "date": "2026 (survey, accessed 2026-11-03)",
+       "q": "guns",
+       "agree": 1,
+       "pos": 1,
+       "note": null
+      },
+      {
+       "issue": "Environment and climate",
+       "found": true,
+       "summary": "Wants to protect Florida's aquifer (underground water supply), lakes and waterways from pollution and algae blooms; calls nuclear the most reliable power source. No stated climate change position.",
+       "url": "https://www.clickorlando.com/voters-guide/2026/10/16/2026-voters-guide-us-house-district-9/",
+       "type": "News 6 voter guide questionnaire",
+       "date": "2026-10-16",
+       "q": "environment",
+       "agree": null,
+       "pos": null,
+       "note": null
+      },
+      {
+       "issue": "Foreign policy and the military",
+       "found": true,
+       "summary": "Calls China the top national security threat and wants to deter it, with clear priorities for when to use military force.",
+       "url": "https://www.clickorlando.com/voters-guide/2026/10/16/2026-voters-guide-us-house-district-9/",
+       "type": "News 6 voter guide questionnaire",
+       "date": "2026-10-16",
+       "q": null,
+       "agree": null,
+       "pos": 4,
+       "note": null
+      },
+      {
+       "issue": "Social Security and Medicare",
+       "found": false,
+       "summary": "",
+       "url": "",
+       "type": "",
+       "date": "",
+       "q": null,
+       "agree": null,
+       "pos": null,
+       "note": null
+      },
+      {
+       "issue": "Public safety",
+       "found": false,
+       "summary": "",
+       "url": "",
+       "type": "",
+       "date": "",
+       "q": null,
+       "agree": null,
+       "pos": null,
+       "note": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "h11",
+   "district": 11,
+   "title": "U.S. House, District 11",
+   "blurb": "Counties: Sumter, Lake (part), Orange (part). Your representative votes on federal laws, taxes and spending for a two-year term.",
+   "notes": "",
+   "candidates": [
+    {
+     "name": "Joe Strada",
+     "mate": null,
+     "party": "Republican",
+     "writeIn": false,
+     "site": "https://votestrada.com",
+     "bio": "Joe Strada is a businessman from Lake Mary who graduated from Lyman High School in 1981. He built Strada Services, a Sanford-based air conditioning, electrical, plumbing and security company, which he sold to investment firm Trilantic North America in 2021; news reports still describe him as its executive chairman. He is running for an open seat after Rep. Daniel Webster retired.",
+     "incumbent": "",
+     "profile": {
+      "bio": "Joe Strada is a businessman from Lake Mary who graduated from Lyman High School in 1981. He built Strada Services, a Sanford-based air conditioning, electrical, plumbing and security company, which he sold to investment firm Trilantic North America in 2021; news reports still describe him as its executive chairman. He is running for an open seat after Rep. Daniel Webster retired.",
+      "record": [
+       {
+        "text": "Won the August 2026 Republican primary by 393 votes over former state lawmaker Carey Baker; a recount confirmed the result.",
+        "source_url": "https://theapopkachief.com/recount-confirms-strada-as-gop-nominee-for-district-11/",
+        "date": "2026-08-26"
+       },
+       {
+        "text": "Has served on the board of the Seminole County Sheriff Foundation since 2020 and volunteered with Habitat for Humanity Seminole County since 2010.",
+        "source_url": "https://www.wintergardenvox.com/candidates/joe-strada",
+        "date": "accessed 2026-11-03"
+       },
+       {
+        "text": "Raised about $5.5 million by October 2026, much of it his own money, and was endorsed by House Majority Leader Steve Scalise and Rep. Jim Jordan.",
+        "source_url": "https://ballotpedia.org/Florida's_11th_Congressional_District_election,_2026",
+        "date": "2026-10-14"
+       },
+       {
+        "text": "Says he backs congressional term limits, a balanced budget amendment (requiring spending not exceed revenue), and a ban on stock trading by members of Congress.",
+        "source_url": "https://www.wintergardenvox.com/candidates/joe-strada",
+        "date": "accessed 2026-11-03"
+       }
+      ],
+      "onRecord": [],
+      "people": {
+       "police_and_public": [
+        {
+         "text": "Has served on the Seminole County Sheriff Foundation board since 2020 and says law enforcement needs stronger resources.",
+         "source_url": "https://www.wintergardenvox.com/candidates/joe-strada",
+         "date": "accessed 2026-11-03"
+        }
+       ],
+       "immigrants": [],
+       "housing": [
+        {
+         "text": "Has volunteered with Habitat for Humanity Seminole County, which builds homes with low-income families, since 2010.",
+         "source_url": "https://www.wintergardenvox.com/candidates/joe-strada",
+         "date": "accessed 2026-11-03"
+        }
+       ],
+       "struggling_families": [],
+       "race_civil_rights": [],
+       "lgbtq": [],
+       "disability_veterans": [],
+       "faith": []
+      }
+     },
+     "stances": [
+      {
+       "issue": "Immigration enforcement",
+       "found": true,
+       "summary": "Makes immigration enforcement a top priority, backs more resources for law enforcement, and credits the Trump administration with tightening the border.",
+       "url": "https://ballotpedia.org/Florida's_11th_Congressional_District_election,_2026",
+       "type": "Ballotpedia candidate survey",
+       "date": "2026 (survey, accessed 2026-11-03)",
+       "q": "immigration",
+       "agree": 4,
+       "pos": 4,
+       "note": null
+      },
+      {
+       "issue": "Cost of living",
+       "found": false,
+       "summary": "",
+       "url": "",
+       "type": "",
+       "date": "",
+       "q": null,
+       "agree": null,
+       "pos": null,
+       "note": null
+      },
+      {
+       "issue": "Taxes",
+       "found": false,
+       "summary": "",
+       "url": "",
+       "type": "",
+       "date": "",
+       "q": null,
+       "agree": null,
+       "pos": null,
+       "note": null
+      },
+      {
+       "issue": "Health care",
+       "found": false,
+       "summary": "",
+       "url": "",
+       "type": "",
+       "date": "",
+       "q": null,
+       "agree": null,
+       "pos": null,
+       "note": null
+      },
+      {
+       "issue": "Abortion",
+       "found": false,
+       "summary": "",
+       "url": "",
+       "type": "",
+       "date": "",
+       "q": null,
+       "agree": null,
+       "pos": null,
+       "note": null
+      },
+      {
+       "issue": "Guns",
+       "found": false,
+       "summary": "",
+       "url": "",
+       "type": "",
+       "date": "",
+       "q": null,
+       "agree": null,
+       "pos": null,
+       "note": null
+      },
+      {
+       "issue": "Environment and climate",
+       "found": false,
+       "summary": "",
+       "url": "",
+       "type": "",
+       "date": "",
+       "q": null,
+       "agree": null,
+       "pos": null,
+       "note": null
+      },
+      {
+       "issue": "Foreign policy and the military",
+       "found": false,
+       "summary": "",
+       "url": "",
+       "type": "",
+       "date": "",
+       "q": null,
+       "agree": null,
+       "pos": null,
+       "note": null
+      },
+      {
+       "issue": "Social Security and Medicare",
+       "found": false,
+       "summary": "",
+       "url": "",
+       "type": "",
+       "date": "",
+       "q": null,
+       "agree": null,
+       "pos": null,
+       "note": null
+      },
+      {
+       "issue": "Public safety",
+       "found": false,
+       "summary": "",
+       "url": "",
+       "type": "",
+       "date": "",
+       "q": null,
+       "agree": null,
+       "pos": null,
+       "note": null
+      }
+     ]
+    },
+    {
+     "name": "James Pericola",
+     "mate": null,
+     "party": "Democrat",
+     "writeIn": false,
+     "site": "https://jamespericola.com",
+     "bio": "James Pericola, 50, was born and raised in Central Florida and lives in Winter Garden with his wife, Mathilde, and three children. He is an attorney with bachelor's and law degrees from The Catholic University of America. He began his career working for U.S. Sen. Bob Graham, served as a presidential appointee in the Clinton administration, and later started a government policy consulting firm.",
+     "incumbent": "",
+     "profile": {
+      "bio": "James Pericola, 50, was born and raised in Central Florida and lives in Winter Garden with his wife, Mathilde, and three children. He is an attorney with bachelor's and law degrees from The Catholic University of America. He began his career working for U.S. Sen. Bob Graham, served as a presidential appointee in the Clinton administration, and later started a government policy consulting firm.",
+      "record": [
+       {
+        "text": "Worked for U.S. Sen. Bob Graham, served as a presidential appointee in the Clinton administration, and worked as a congressional staffer and government affairs executive.",
+        "source_url": "https://www.clickorlando.com/voters-guide/2026/10/16/2026-voters-guide-us-house-district-11/",
+        "date": "2026-10-16"
+       },
+       {
+        "text": "Founded a government policy consulting firm.",
+        "source_url": "https://www.clickorlando.com/voters-guide/2026/10/16/2026-voters-guide-us-house-district-11/",
+        "date": "2026-10-16"
+       },
+       {
+        "text": "Moved back to Central Florida to care for his aging mother, which he says shapes his focus on health care.",
+        "source_url": "https://ballotpedia.org/Florida's_11th_Congressional_District_election,_2026",
+        "date": "accessed 2026-11-03"
+       },
+       {
+        "text": "Won the three-way Democratic primary in August 2026 with about 44% of the vote.",
+        "source_url": "https://theapopkachief.com/recount-confirms-strada-as-gop-nominee-for-district-11/",
+        "date": "2026-08-26"
+       }
+      ],
+      "onRecord": [],
+      "people": {
+       "police_and_public": [],
+       "immigrants": [],
+       "housing": [
+        {
+         "text": "Proposes more federal funding for housing.",
+         "source_url": "https://www.clickorlando.com/voters-guide/2026/10/16/2026-voters-guide-us-house-district-11/",
+         "date": "2026-10-16"
+        }
+       ],
+       "struggling_families": [
+        {
+         "text": "Proposes ending federal income tax for people earning under $100,000.",
+         "source_url": "https://www.clickorlando.com/voters-guide/2026/10/16/2026-voters-guide-us-house-district-11/",
+         "date": "2026-10-16"
+        }
+       ],
+       "race_civil_rights": [
+        {
+         "text": "Supports the John Lewis Voting Rights Advancement Act, which would bring back federal review of voting rule changes in some places, and wants to end partisan gerrymandering (drawing maps to favor a party).",
+         "source_url": "https://www.clickorlando.com/voters-guide/2026/10/16/2026-voters-guide-us-house-district-11/",
+         "date": "2026-10-16"
+        }
+       ],
+       "lgbtq": [],
+       "disability_veterans": [
+        {
+         "text": "Supports more access to long-term care, citing his experience caring for his mother.",
+         "source_url": "https://ballotpedia.org/Florida's_11th_Congressional_District_election,_2026",
+         "date": "accessed 2026-11-03"
+        }
+       ],
+       "faith": []
+      }
+     },
+     "stances": [
+      {
+       "issue": "Cost of living",
+       "found": true,
+       "summary": "Wants federal money for housing and action against price gouging (unfair price hikes), and says data centers should help pay for the power lines they need.",
+       "url": "https://www.clickorlando.com/voters-guide/2026/10/16/2026-voters-guide-us-house-district-11/",
+       "type": "News 6 voter guide questionnaire",
+       "date": "2026-10-16",
+       "q": "afford",
+       "agree": 4,
+       "pos": 4,
+       "note": null
+      },
+      {
+       "issue": "Taxes",
+       "found": true,
+       "summary": "Proposes ending federal income tax for people earning under $100,000 and raising the cap on wages taxed for Social Security so high earners pay more.",
+       "url": "https://www.orangeobserver.com/news/2026/aug/05/meet-11th-congressional-district-democratic-candidate-james-pericola/",
+       "type": "Orange Observer candidate Q&A",
+       "date": "2026-08-05",
+       "q": "taxes",
+       "agree": 2,
+       "pos": 4,
+       "note": null
+      },
+      {
+       "issue": "Health care",
+       "found": true,
+       "summary": "Wants to restore Medicaid money, strengthen the Affordable Care Act (ACA, Obamacare), expand its premium tax credits, and let Medicare negotiate drug prices.",
+       "url": "https://www.clickorlando.com/voters-guide/2026/10/16/2026-voters-guide-us-house-district-11/",
+       "type": "News 6 voter guide questionnaire",
+       "date": "2026-10-16",
+       "q": "health",
+       "agree": 4,
+       "pos": 4,
+       "note": null
+      },
+      {
+       "issue": "Social Security and Medicare",
+       "found": true,
+       "summary": "Opposes cutting earned Social Security benefits and wants to protect Medicare and long-term care.",
+       "url": "https://www.orangeobserver.com/news/2026/aug/05/meet-11th-congressional-district-democratic-candidate-james-pericola/",
+       "type": "Orange Observer candidate Q&A",
+       "date": "2026-08-05",
+       "q": null,
+       "agree": null,
+       "pos": 5,
+       "note": null
+      },
+      {
+       "issue": "Environment and climate",
+       "found": true,
+       "summary": "Prioritizes clean water, Everglades restoration, flood and stormwater projects, and disaster readiness, and wants polluters held responsible.",
+       "url": "https://www.clickorlando.com/voters-guide/2026/10/16/2026-voters-guide-us-house-district-11/",
+       "type": "News 6 voter guide questionnaire",
+       "date": "2026-10-16",
+       "q": "environment",
+       "agree": 4,
+       "pos": 4,
+       "note": null
+      },
+      {
+       "issue": "Foreign policy and the military",
+       "found": true,
+       "summary": "Says federal money should be shifted away from what he calls endless wars and wasteful projects.",
+       "url": "https://www.orangeobserver.com/news/2026/aug/05/meet-11th-congressional-district-democratic-candidate-james-pericola/",
+       "type": "Orange Observer candidate Q&A",
+       "date": "2026-08-05",
+       "q": null,
+       "agree": null,
+       "pos": 2,
+       "note": null
+      },
+      {
+       "issue": "Immigration enforcement",
+       "found": false,
+       "summary": "",
+       "url": "",
+       "type": "",
+       "date": "",
+       "q": null,
+       "agree": null,
+       "pos": null,
+       "note": null
+      },
+      {
+       "issue": "Abortion",
+       "found": false,
+       "summary": "",
+       "url": "",
+       "type": "",
+       "date": "",
+       "q": null,
+       "agree": null,
+       "pos": null,
+       "note": null
+      },
+      {
+       "issue": "Guns",
+       "found": false,
+       "summary": "",
+       "url": "",
+       "type": "",
+       "date": "",
+       "q": null,
+       "agree": null,
+       "pos": null,
+       "note": null
+      },
+      {
+       "issue": "Public safety",
+       "found": false,
+       "summary": "",
+       "url": "",
+       "type": "",
+       "date": "",
+       "q": null,
+       "agree": null,
+       "pos": null,
+       "note": null
+      }
+     ]
+    },
+    {
+     "name": "Ralph Groves",
+     "mate": null,
+     "party": "Libertarian",
+     "writeIn": false,
+     "site": "https://grovesforcongress.com",
+     "bio": "Ralph Groves, 74, lives in Ocoee and is a retired U.S. Army major who served in Germany and in the Iraq War (2008-2009), then worked as a Defense Department civilian analyst until 2018. He holds a Doctor of Arts in history from St. John's University and is the full-time caregiver for his wife. He led the Libertarian Party of Orange County from 2019 to 2022.",
+     "incumbent": "",
+     "profile": {
+      "bio": "Ralph Groves, 74, lives in Ocoee and is a retired U.S. Army major who served in Germany and in the Iraq War (2008-2009), then worked as a Defense Department civilian analyst until 2018. He holds a Doctor of Arts in history from St. John's University and is the full-time caregiver for his wife. He led the Libertarian Party of Orange County from 2019 to 2022.",
+      "record": [
+       {
+        "text": "Ran for Congress in New York's 9th District in 1982 as the Conservative Party candidate and finished third.",
+        "source_url": "https://www.wintergardenvox.com/articles/libertarian-candidate-wants-voters-to-have-a-third-option-in-congressional-race",
+        "date": "2025-12-17"
+       },
+       {
+        "text": "Chaired the Libertarian Party of Orange County from 2019 to 2022.",
+        "source_url": "https://www.clickorlando.com/voters-guide/2026/10/16/2026-voters-guide-us-house-district-11/",
+        "date": "2026-10-16"
+       },
+       {
+        "text": "Was listed as a withdrawn or disqualified Libertarian candidate in the 2024 District 11 race.",
+        "source_url": "https://ballotpedia.org/Ralph_Groves",
+        "date": "accessed 2026-11-03"
+       },
+       {
+        "text": "Volunteers with the Southeastern Food Bank, Matthew's Hope, the American Legion and JMJ Pregnancy Center.",
+        "source_url": "https://www.wintergardenvox.com/articles/libertarian-candidate-wants-voters-to-have-a-third-option-in-congressional-race",
+        "date": "2025-12-17"
+       }
+      ],
+      "onRecord": [],
+      "people": {
+       "police_and_public": [],
+       "immigrants": [
+        {
+         "text": "Supports simpler, more reasonable legal immigration processes.",
+         "source_url": "https://www.grovesforcongress.com/my-mission",
+         "date": "accessed 2026-11-03"
+        }
+       ],
+       "housing": [],
+       "struggling_families": [],
+       "race_civil_rights": [
+        {
+         "text": "Says the War on Drugs punishes minorities disproportionately and should end.",
+         "source_url": "https://www.grovesforcongress.com/meet-ralph-groves",
+         "date": "accessed 2026-11-03"
+        }
+       ],
+       "lgbtq": [],
+       "disability_veterans": [
+        {
+         "text": "Wants the Department of Veterans Affairs to meet military members' needs.",
+         "source_url": "https://www.grovesforcongress.com/meet-ralph-groves",
+         "date": "accessed 2026-11-03"
+        }
+       ],
+       "faith": [
+        {
+         "text": "Opposes government surveillance of churches and other religious institutions and their members.",
+         "source_url": "https://www.grovesforcongress.com/my-mission",
+         "date": "accessed 2026-11-03"
+        }
+       ]
+      }
+     },
+     "stances": [
+      {
+       "issue": "Cost of living",
+       "found": true,
+       "summary": "Would cut fraud in federal programs, especially Medicare, to lower taxes, and build more oil refineries and nuclear plants to cut energy costs.",
+       "url": "https://www.clickorlando.com/voters-guide/2026/10/16/2026-voters-guide-us-house-district-11/",
+       "type": "News 6 voter guide questionnaire",
+       "date": "2026-10-16",
+       "q": "afford",
+       "agree": 2,
+       "pos": 2,
+       "note": null
+      },
+      {
+       "issue": "Taxes",
+       "found": true,
+       "summary": "Wants federal taxes cut to spur growth, and property taxes reduced gradually over several years so local services can adjust.",
+       "url": "https://www.clickorlando.com/voters-guide/2026/10/16/2026-voters-guide-us-house-district-11/",
+       "type": "News 6 voter guide questionnaire",
+       "date": "2026-10-16",
+       "q": "taxes",
+       "agree": 4,
+       "pos": 2,
+       "note": null
+      },
+      {
+       "issue": "Immigration enforcement",
+       "found": true,
+       "summary": "Favors more legal, steady immigration to bring in skilled workers. Says ICE's (Immigration and Customs Enforcement's) core job is reasonable but it has gone too far.",
+       "url": "https://www.wintergardenvox.com/articles/libertarian-candidate-wants-voters-to-have-a-third-option-in-congressional-race",
+       "type": "newspaper interview",
+       "date": "2025-12-17",
+       "q": "immigration",
+       "agree": 2,
+       "pos": 2,
+       "note": null
+      },
+      {
+       "issue": "Health care",
+       "found": true,
+       "summary": "Focuses on cutting Medicare fraud and opposes vaccine mandates in future pandemics. No broader health coverage plan stated.",
+       "url": "https://www.grovesforcongress.com/meet-ralph-groves",
+       "type": "campaign website",
+       "date": "accessed 2026-11-03",
+       "q": "health",
+       "agree": null,
+       "pos": null,
+       "note": null
+      },
+      {
+       "issue": "Abortion",
+       "found": true,
+       "summary": "Opposes abortion except in extreme cases, like ectopic pregnancy, which he would leave to the woman and doctor. Supported overturning Roe v. Wade and letting states decide.",
+       "url": "https://www.wintergardenvox.com/articles/libertarian-candidate-wants-voters-to-have-a-third-option-in-congressional-race",
+       "type": "newspaper interview",
+       "date": "2025-12-17",
+       "q": "abortion",
+       "agree": 2,
+       "pos": 2,
+       "note": null
+      },
+      {
+       "issue": "Guns",
+       "found": true,
+       "summary": "Supports strict respect for the Second Amendment and has a concealed-carry permit, but also supports background checks and waiting periods.",
+       "url": "https://www.wintergardenvox.com/articles/libertarian-candidate-wants-voters-to-have-a-third-option-in-congressional-race",
+       "type": "newspaper interview",
+       "date": "2025-12-17",
+       "q": "guns",
+       "agree": 3,
+       "pos": 3,
+       "note": null
+      },
+      {
+       "issue": "Environment and climate",
+       "found": true,
+       "summary": "Wants the EPA (Environmental Protection Agency) to keep drinking water safe, but favors more fossil fuel production and sees a switch to green energy as a decades-long process.",
+       "url": "https://www.grovesforcongress.com/my-mission",
+       "type": "campaign website",
+       "date": "accessed 2026-11-03",
+       "q": "environment",
+       "agree": 2,
+       "pos": 2,
+       "note": null
+      },
+      {
+       "issue": "Foreign policy and the military",
+       "found": true,
+       "summary": "Wants overseas troop deployments limited to defending the U.S., capped at 60 days without Congress's approval. Calls for a Ukraine ceasefire and opposes more U.S. aid there.",
+       "url": "https://www.clickorlando.com/voters-guide/2026/10/16/2026-voters-guide-us-house-district-11/",
+       "type": "News 6 voter guide questionnaire",
+       "date": "2026-10-16",
+       "q": null,
+       "agree": null,
+       "pos": 2,
+       "note": null
+      },
+      {
+       "issue": "Social Security and Medicare",
+       "found": true,
+       "summary": "Says he would protect Social Security and Medicare while cutting fraud.",
+       "url": "https://www.grovesforcongress.com/my-mission",
+       "type": "campaign website",
+       "date": "accessed 2026-11-03",
+       "q": null,
+       "agree": null,
+       "pos": 4,
+       "note": null
+      },
+      {
+       "issue": "Public safety",
+       "found": true,
+       "summary": "Wants to end the War on Drugs, saying it has not cut drug use and punishes minorities more harshly.",
+       "url": "https://www.grovesforcongress.com/meet-ralph-groves",
+       "type": "campaign website",
+       "date": "accessed 2026-11-03",
+       "q": "safety",
+       "agree": 1,
+       "pos": 1,
+       "note": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "h12",
+   "district": 12,
+   "title": "U.S. House, District 12",
+   "blurb": "Counties: Pasco (part), Hillsborough (part). Your representative votes on federal laws, taxes and spending for a two-year term.",
+   "notes": "",
+   "candidates": [
+    {
+     "name": "Gus Michael Bilirakis",
+     "mate": null,
+     "party": "Republican",
+     "writeIn": false,
+     "site": "",
+     "bio": "Gus Bilirakis was born in 1963 in Gainesville, grew up in Tarpon Springs and lives in Palm Harbor. He is a lawyer who focused on wills and estates, with degrees from the University of Florida and Stetson University's law school, and he served in the Florida House from 1998 to 2006. He has been in Congress since January 2007 (almost 20 years), first for District 9 and for District 12 since 2013, taking over the seat his father, Michael Bilirakis, held.",
+     "incumbent": "Current member of Congress",
+     "profile": {
+      "bio": "Gus Bilirakis was born in 1963 in Gainesville, grew up in Tarpon Springs and lives in Palm Harbor. He is a lawyer who focused on wills and estates, with degrees from the University of Florida and Stetson University's law school, and he served in the Florida House from 1998 to 2006. He has been in Congress since January 2007 (almost 20 years), first for District 9 and for District 12 since 2013, taking over the seat his father, Michael Bilirakis, held.",
+      "record": [
+       {
+        "text": "Served in the Florida House from 1998 to 2006 and took his U.S. House seat in January 2007.",
+        "source_url": "https://en.wikipedia.org/wiki/Gus_Bilirakis",
+        "date": "accessed 2026-11-03"
+       },
+       {
+        "text": "Reintroduced the Major Richard Star Act, which would let about 50,000 combat-injured, medically retired veterans receive both full military retirement pay and VA disability pay.",
+        "source_url": "https://bilirakis.house.gov/issue/veterans",
+        "date": "2025-03-17"
+       },
+       {
+        "text": "Reintroduced a bill to create a bipartisan commission to recommend ways to keep Medicare and Social Security financially stable.",
+        "source_url": "https://www.quiverquant.com/news/Press+Release%3A+Congressman+Gus+Bilirakis+Reintroduces+Commission+on+Sustaining+Medicare+and+Social+Security+Act",
+        "date": "2026-06-02"
+       },
+       {
+        "text": "Voted yes on the 2025 tax and spending law (One Big Beautiful Bill Act), which made the 2017 tax cuts permanent and reduced future spending on Medicaid and SNAP (food aid).",
+        "source_url": "https://clerk.house.gov/Votes/2025190",
+        "date": "2025-07-03"
+       },
+       {
+        "text": "Did not vote on the January 6, 2021 objections to the 2020 electoral votes because he had been diagnosed with COVID-19.",
+        "source_url": "https://patch.com/florida/southtampa/electoral-college-count-how-fls-congressional-delegation-voted",
+        "date": "2021-01-07"
+       }
+      ],
+      "onRecord": [],
+      "people": {
+       "police_and_public": [],
+       "immigrants": [
+        {
+         "text": "Voted yes on the Laken Riley Act, which requires federal detention of immigrants without legal status who are charged with theft or violent crimes.",
+         "source_url": "https://clerk.house.gov/evs/2025/roll023",
+         "date": "2025-01-22"
+        }
+       ],
+       "housing": [],
+       "struggling_families": [
+        {
+         "text": "Voted yes on the 2025 tax and spending law (One Big Beautiful Bill Act), which made the 2017 tax cuts permanent and reduced future spending on Medicaid and SNAP (food aid).",
+         "source_url": "https://clerk.house.gov/Votes/2025190",
+         "date": "2025-07-03"
+        }
+       ],
+       "race_civil_rights": [
+        {
+         "text": "Voted yes on the SAVE Act, which would require documents proving U.S. citizenship to register to vote in federal elections.",
+         "source_url": "https://clerk.house.gov/evs/2025/roll102",
+         "date": "2025-04-10"
+        }
+       ],
+       "lgbtq": [
+        {
+         "text": "Voted no on the Respect for Marriage Act, which requires federal and state recognition of same-sex and interracial marriages.",
+         "source_url": "https://clerk.house.gov/evs/2022/roll513",
+         "date": "2022-12-08"
+        },
+        {
+         "text": "Voted yes on the Protection of Women and Girls in Sports Act, which would bar transgender girls and women from girls' and women's school sports teams.",
+         "source_url": "https://clerk.house.gov/evs/2025/roll012",
+         "date": "2025-01-14"
+        }
+       ],
+       "disability_veterans": [
+        {
+         "text": "Reintroduced the Major Richard Star Act for combat-injured, medically retired veterans.",
+         "source_url": "https://bilirakis.house.gov/issue/veterans",
+         "date": "2025-03-17"
+        },
+        {
+         "text": "Introduced the Retired Pay Restoration Act, letting veterans with 20+ years of service collect both retirement and VA disability pay.",
+         "source_url": "https://bilirakis.house.gov/issue/veterans",
+         "date": "2025-01-16"
+        }
+       ],
+       "faith": []
+      }
+     },
+     "stances": [
+      {
+       "issue": "Taxes",
+       "found": true,
+       "summary": "Voted for the 2017 Tax Cuts and Jobs Act and for the 2025 law (One Big Beautiful Bill Act) that made those cuts permanent.",
+       "url": "https://clerk.house.gov/Votes/2025190",
+       "type": "voting record",
+       "date": "2025-07-03",
+       "q": "taxes",
+       "agree": 5,
+       "pos": 1,
+       "note": null
+      },
+      {
+       "issue": "Immigration enforcement",
+       "found": true,
+       "summary": "Voted for the Laken Riley Act, requiring detention of immigrants without legal status who are charged with theft or violent crimes.",
+       "url": "https://clerk.house.gov/evs/2025/roll023",
+       "type": "voting record",
+       "date": "2025-01-22",
+       "q": "immigration",
+       "agree": 4,
+       "pos": 4,
+       "note": null
+      },
+      {
+       "issue": "Health care",
+       "found": true,
+       "summary": "Has supported repealing the Affordable Care Act (ACA, Obamacare).",
+       "url": "https://en.wikipedia.org/wiki/Gus_Bilirakis",
+       "type": "voting record and public positions",
+       "date": "accessed 2026-11-03",
+       "q": "health",
+       "agree": 1,
+       "pos": 1,
+       "note": null
+      },
+      {
+       "issue": "Abortion",
+       "found": true,
+       "summary": "Voted against the Women's Health Protection Act, which would have made abortion access a federal legal right.",
+       "url": "https://clerk.house.gov/evs/2022/roll360",
+       "type": "voting record",
+       "date": "2022-07-15",
+       "q": "abortion",
+       "agree": 2,
+       "pos": 2,
+       "note": null
+      },
+      {
+       "issue": "Guns",
+       "found": true,
+       "summary": "Supported letting concealed-carry permit holders carry in other states (H.R. 38). After the 2018 Parkland shooting, said he would consider gun limits if needed.",
+       "url": "https://en.wikipedia.org/wiki/Gus_Bilirakis",
+       "type": "voting record and public statement",
+       "date": "accessed 2026-11-03",
+       "q": "guns",
+       "agree": 2,
+       "pos": 2,
+       "note": null
+      },
+      {
+       "issue": "Environment and climate",
+       "found": true,
+       "summary": "Signed a pledge to oppose climate legislation that would raise taxes.",
+       "url": "https://en.wikipedia.org/wiki/Gus_Bilirakis",
+       "type": "signed pledge",
+       "date": "accessed 2026-11-03",
+       "q": "environment",
+       "agree": 2,
+       "pos": 2,
+       "note": null
+      },
+      {
+       "issue": "Foreign policy and the military",
+       "found": true,
+       "summary": "Voted against the 2024 bill sending about $61 billion in military and other aid to Ukraine.",
+       "url": "https://clerk.house.gov/evs/2024/roll151",
+       "type": "voting record",
+       "date": "2024-04-20",
+       "q": null,
+       "agree": null,
+       "pos": 2,
+       "note": null
+      },
+      {
+       "issue": "Social Security and Medicare",
+       "found": true,
+       "summary": "Calls Medicare and Social Security a sacred promise and wants a bipartisan commission to recommend fixes so future benefits are not cut.",
+       "url": "https://www.quiverquant.com/news/Press+Release%3A+Congressman+Gus+Bilirakis+Reintroduces+Commission+on+Sustaining+Medicare+and+Social+Security+Act",
+       "type": "press release (summarized)",
+       "date": "2026-06-02",
+       "q": null,
+       "agree": null,
+       "pos": 3,
+       "note": null
+      },
+      {
+       "issue": "Cost of living",
+       "found": false,
+       "summary": "",
+       "url": "",
+       "type": "",
+       "date": "",
+       "q": null,
+       "agree": null,
+       "pos": null,
+       "note": null
+      },
+      {
+       "issue": "Public safety",
+       "found": false,
+       "summary": "",
+       "url": "",
+       "type": "",
+       "date": "",
+       "q": null,
+       "agree": null,
+       "pos": null,
+       "note": null
+      }
+     ]
+    },
+    {
+     "name": "Kimberly Overman",
+     "mate": null,
+     "party": "Democrat",
+     "writeIn": false,
+     "site": "https://www.kimberlyoverman.com",
+     "bio": "Kimberly Overman was born in New York City and has lived in the Tampa Bay area for more than 40 years. She earned an agricultural and resource economics degree from the University of Maryland and spent about 30 years as a certified financial planner, running her own advisory firm. She served on the Hillsborough County Commission from 2018 to 2022, including as chair, and is raising her grandson.",
+     "incumbent": "",
+     "profile": {
+      "bio": "Kimberly Overman was born in New York City and has lived in the Tampa Bay area for more than 40 years. She earned an agricultural and resource economics degree from the University of Maryland and spent about 30 years as a certified financial planner, running her own advisory firm. She served on the Hillsborough County Commission from 2018 to 2022, including as chair, and is raising her grandson.",
+      "record": [
+       {
+        "text": "Won an at-large Hillsborough County Commission seat in 2018 with 53% of the vote; lost reelection in 2022 to Republican Joshua Wostal, 47.6% to 52.4%.",
+        "source_url": "https://ballotpedia.org/Kimberly_Overman",
+        "date": "accessed 2026-11-03"
+       },
+       {
+        "text": "Chaired the county commission and also led the county's Affordable Housing Advisory Board and Commission on Human Trafficking.",
+        "source_url": "https://kimberlyoverman.com/meet-kimberly/",
+        "date": "accessed 2026-11-03"
+       },
+       {
+        "text": "Began the 2026 race in District 15, then moved her campaign to District 12 after the new map was adopted.",
+        "source_url": "https://kimberlyoverman.com/news-and-events/press-releases/an-important-update-about-the-overman-for-congress-campaign-a-message-from-kimberly-overman-to-supporters/",
+        "date": "2026-05-04"
+       },
+       {
+        "text": "Won the Democratic primary for District 12 with 52.7% over Darren McAuley.",
+        "source_url": "https://wusf.org/text/politics-issues/2026-08-18/pasco-primary-results-2026-kimberly-overman-wins-primary-setting-up-face-off-against-us-rep-gus-bilirakis",
+        "date": "2026-08-18"
+       }
+      ],
+      "onRecord": [],
+      "people": {
+       "police_and_public": [],
+       "immigrants": [],
+       "housing": [
+        {
+         "text": "Chaired Hillsborough County's Affordable Housing Advisory Board while on the commission.",
+         "source_url": "https://kimberlyoverman.com/meet-kimberly/",
+         "date": "accessed 2026-11-03"
+        }
+       ],
+       "struggling_families": [
+        {
+         "text": "Says that during COVID-19 she backed emergency county help for small businesses, child care providers and vulnerable residents.",
+         "source_url": "https://kimberlyoverman.com/meet-kimberly/",
+         "date": "accessed 2026-11-03"
+        }
+       ],
+       "race_civil_rights": [
+        {
+         "text": "Lists defending voting rights among her priorities.",
+         "source_url": "https://ballotpedia.org/Florida's_12th_Congressional_District_election,_2026",
+         "date": "2026 (survey, accessed 2026-11-03)"
+        }
+       ],
+       "lgbtq": [],
+       "disability_veterans": [
+        {
+         "text": "Lists support for veterans, seniors and family caregivers among her priorities.",
+         "source_url": "https://ballotpedia.org/Florida's_12th_Congressional_District_election,_2026",
+         "date": "2026 (survey, accessed 2026-11-03)"
+        }
+       ],
+       "faith": []
+      }
+     },
+     "stances": [
+      {
+       "issue": "Cost of living",
+       "found": true,
+       "summary": "Names affordability as the district's biggest challenge, citing housing, insurance and utility costs, and says Congress must lower costs, add housing and steady insurance markets.",
+       "url": "https://wusf.org/text/politics-issues/2026-08-18/pasco-primary-results-2026-kimberly-overman-wins-primary-setting-up-face-off-against-us-rep-gus-bilirakis",
+       "type": "WUSF voter guide answers",
+       "date": "2026-08-18",
+       "q": "afford",
+       "agree": 3,
+       "pos": 3,
+       "note": null
+      },
+      {
+       "issue": "Health care",
+       "found": true,
+       "summary": "Wants to lower health care and prescription drug costs and protect access to care, including women's health care.",
+       "url": "https://ballotpedia.org/Florida's_12th_Congressional_District_election,_2026",
+       "type": "Ballotpedia candidate survey",
+       "date": "2026 (survey, accessed 2026-11-03)",
+       "q": "health",
+       "agree": 4,
+       "pos": 4,
+       "note": null
+      },
+      {
+       "issue": "Abortion",
+       "found": true,
+       "summary": "Listed reproductive rights among her top priorities and pledges to protect women's health care. No specific bill named.",
+       "url": "https://ballotpedia.org/Kimberly_Overman",
+       "type": "Ballotpedia candidate survey (2025, District 15 race)",
+       "date": "accessed 2026-11-03",
+       "q": "abortion",
+       "agree": 4,
+       "pos": 4,
+       "note": null
+      },
+      {
+       "issue": "Social Security and Medicare",
+       "found": true,
+       "summary": "Wants to strengthen Social Security and Medicare.",
+       "url": "https://ballotpedia.org/Florida's_12th_Congressional_District_election,_2026",
+       "type": "Ballotpedia candidate survey",
+       "date": "2026 (survey, accessed 2026-11-03)",
+       "q": null,
+       "agree": null,
+       "pos": 5,
+       "note": null
+      },
+      {
+       "issue": "Immigration enforcement",
+       "found": true,
+       "summary": "Calls for practical immigration reform; no specific enforcement plan stated.",
+       "url": "https://ballotpedia.org/Kimberly_Overman",
+       "type": "Ballotpedia candidate survey",
+       "date": "accessed 2026-11-03",
+       "q": "immigration",
+       "agree": null,
+       "pos": null,
+       "note": null
+      },
+      {
+       "issue": "Environment and climate",
+       "found": true,
+       "summary": "Listed climate action as a top priority in her 2025 campaign survey.",
+       "url": "https://ballotpedia.org/Kimberly_Overman",
+       "type": "Ballotpedia candidate survey (2025)",
+       "date": "accessed 2026-11-03",
+       "q": "environment",
+       "agree": 4,
+       "pos": 4,
+       "note": null
+      },
+      {
+       "issue": "Taxes",
+       "found": false,
+       "summary": "",
+       "url": "",
+       "type": "",
+       "date": "",
+       "q": null,
+       "agree": null,
+       "pos": null,
+       "note": null
+      },
+      {
+       "issue": "Guns",
+       "found": false,
+       "summary": "",
+       "url": "",
+       "type": "",
+       "date": "",
+       "q": null,
+       "agree": null,
+       "pos": null,
+       "note": null
+      },
+      {
+       "issue": "Foreign policy and the military",
+       "found": false,
+       "summary": "",
+       "url": "",
+       "type": "",
+       "date": "",
+       "q": null,
+       "agree": null,
+       "pos": null,
+       "note": null
+      },
+      {
+       "issue": "Public safety",
+       "found": false,
+       "summary": "",
+       "url": "",
+       "type": "",
+       "date": "",
+       "q": null,
+       "agree": null,
+       "pos": null,
+       "note": null
+      }
+     ]
+    },
+    {
+     "name": "Branden Scrivener",
+     "mate": null,
+     "party": "No party affiliation",
+     "writeIn": false,
+     "site": "https://brandenscrivenerfl.info",
+     "bio": "Branden Scrivener, 27, is a father of two who has worked in health care for more than three years, including as a Medicare case manager who handles insurance approvals for patients. He has a bachelor's degree in human services and has interned with social service and education groups. He is running without a political party.",
+     "incumbent": "",
+     "profile": {
+      "bio": "Branden Scrivener, 27, is a father of two who has worked in health care for more than three years, including as a Medicare case manager who handles insurance approvals for patients. He has a bachelor's degree in human services and has interned with social service and education groups. He is running without a political party.",
+      "record": [
+       {
+        "text": "Qualified for the November ballot as a no-party candidate with no primary opponent.",
+        "source_url": "https://wusf.org/text/politics-issues/2026-08-18/pasco-primary-results-2026-kimberly-overman-wins-primary-setting-up-face-off-against-us-rep-gus-bilirakis",
+        "date": "2026-08-18"
+       },
+       {
+        "text": "Reported raising about $8,200 for his campaign as of October 14, 2026.",
+        "source_url": "https://ballotpedia.org/Florida's_12th_Congressional_District_election,_2026",
+        "date": "2026-10-14"
+       }
+      ],
+      "onRecord": [],
+      "people": {
+       "police_and_public": [],
+       "immigrants": [],
+       "housing": [],
+       "struggling_families": [
+        {
+         "text": "Calls for guaranteed access to food, water and housing for working-class families.",
+         "source_url": "https://ballotpedia.org/Florida's_12th_Congressional_District_election,_2026",
+         "date": "2026 (survey, accessed 2026-11-03)"
+        }
+       ],
+       "race_civil_rights": [],
+       "lgbtq": [],
+       "disability_veterans": [],
+       "faith": []
+      }
+     },
+     "stances": [
+      {
+       "issue": "Health care",
+       "found": true,
+       "summary": "Wants to expand Medicaid and Medicare.",
+       "url": "https://ballotpedia.org/Florida's_12th_Congressional_District_election,_2026",
+       "type": "Ballotpedia candidate survey",
+       "date": "2026 (survey, accessed 2026-11-03)",
+       "q": "health",
+       "agree": 4,
+       "pos": 4,
+       "note": null
+      },
+      {
+       "issue": "Social Security and Medicare",
+       "found": true,
+       "summary": "Wants to strengthen Social Security and expand Medicare.",
+       "url": "https://ballotpedia.org/Florida's_12th_Congressional_District_election,_2026",
+       "type": "Ballotpedia candidate survey",
+       "date": "2026 (survey, accessed 2026-11-03)",
+       "q": null,
+       "agree": null,
+       "pos": 5,
+       "note": null
+      },
+      {
+       "issue": "Cost of living",
+       "found": true,
+       "summary": "Wants lower housing costs and guaranteed access to food, water and housing.",
+       "url": "https://ballotpedia.org/Florida's_12th_Congressional_District_election,_2026",
+       "type": "Ballotpedia candidate survey",
+       "date": "2026 (survey, accessed 2026-11-03)",
+       "q": "afford",
+       "agree": 5,
+       "pos": 5,
+       "note": null
+      },
+      {
+       "issue": "Taxes",
+       "found": false,
+       "summary": "",
+       "url": "",
+       "type": "",
+       "date": "",
+       "q": null,
+       "agree": null,
+       "pos": null,
+       "note": null
+      },
+      {
+       "issue": "Immigration enforcement",
+       "found": false,
+       "summary": "",
+       "url": "",
+       "type": "",
+       "date": "",
+       "q": null,
+       "agree": null,
+       "pos": null,
+       "note": null
+      },
+      {
+       "issue": "Abortion",
+       "found": false,
+       "summary": "",
+       "url": "",
+       "type": "",
+       "date": "",
+       "q": null,
+       "agree": null,
+       "pos": null,
+       "note": null
+      },
+      {
+       "issue": "Guns",
+       "found": false,
+       "summary": "",
+       "url": "",
+       "type": "",
+       "date": "",
+       "q": null,
+       "agree": null,
+       "pos": null,
+       "note": null
+      },
+      {
+       "issue": "Environment and climate",
+       "found": false,
+       "summary": "",
+       "url": "",
+       "type": "",
+       "date": "",
+       "q": null,
+       "agree": null,
+       "pos": null,
+       "note": null
+      },
+      {
+       "issue": "Foreign policy and the military",
+       "found": false,
+       "summary": "",
+       "url": "",
+       "type": "",
+       "date": "",
+       "q": null,
+       "agree": null,
+       "pos": null,
+       "note": null
+      },
+      {
+       "issue": "Public safety",
+       "found": false,
+       "summary": "",
+       "url": "",
+       "type": "",
+       "date": "",
+       "q": null,
+       "agree": null,
+       "pos": null,
+       "note": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "h13",
+   "district": 13,
+   "title": "U.S. House, District 13",
+   "blurb": "Counties: Pinellas (part), Pasco (part). Your representative votes on federal laws, taxes and spending for a two-year term.",
+   "notes": "",
+   "candidates": [
+    {
+     "name": "Anna Paulina Luna",
+     "mate": null,
+     "party": "Republican",
+     "writeIn": false,
+     "site": "https://www.voteannapaulina.com",
+     "bio": "Anna Paulina Luna was born in 1989 in Santa Ana, California, and served in the U.S. Air Force from 2009 to 2014, including at Whiteman Air Force Base in Missouri. She earned a biology degree from the University of West Florida and later led Hispanic outreach for the conservative group Turning Point USA. She has represented District 13 in Pinellas County since January 2023 (about four years); the district kept the same number after redistricting.",
+     "incumbent": "Current member of Congress",
+     "profile": {
+      "bio": "Anna Paulina Luna was born in 1989 in Santa Ana, California, and served in the U.S. Air Force from 2009 to 2014, including at Whiteman Air Force Base in Missouri. She earned a biology degree from the University of West Florida and later led Hispanic outreach for the conservative group Turning Point USA. She has represented District 13 in Pinellas County since January 2023 (about four years); the district kept the same number after redistricting.",
+      "record": [
+       {
+        "text": "Lost the District 13 race to Charlie Crist in 2020, won it in 2022, and was reelected in 2024 with about 55% of the vote.",
+        "source_url": "https://en.wikipedia.org/wiki/Anna_Paulina_Luna",
+        "date": "accessed 2026-11-03"
+       },
+       {
+        "text": "Sponsored the House resolution to censure (formally scold) Rep. Adam Schiff, which passed 213-209.",
+        "source_url": "https://en.wikipedia.org/wiki/Anna_Paulina_Luna",
+        "date": "2023-06-21"
+       },
+       {
+        "text": "Was picked in February 2025 to lead a House Oversight task force on releasing secret government files, including on the JFK, RFK and Martin Luther King Jr. killings.",
+        "source_url": "https://en.wikipedia.org/wiki/Anna_Paulina_Luna",
+        "date": "2025-02"
+       },
+       {
+        "text": "Filed a discharge petition (a way to force a House vote without leadership's OK) on banning stock trading by members of Congress.",
+        "source_url": "https://rollcall.com/2025/12/02/luna-files-discharge-petition-member-stock-trading/",
+        "date": "2025-12-02"
+       },
+       {
+        "text": "Voted yes on the 2025 tax and spending law (One Big Beautiful Bill Act), which made the 2017 tax cuts permanent and reduced future spending on Medicaid and SNAP (food aid).",
+        "source_url": "https://clerk.house.gov/Votes/2025190",
+        "date": "2025-07-03"
+       }
+      ],
+      "onRecord": [
+       {
+        "text": "During her 2022 campaign, video clips showed her saying Donald Trump won the 2020 presidential election and that the election was stolen. Congress certified Joe Biden's win in January 2021, before she took office.",
+        "response": "No public response to these clips found.",
+        "status": "Statements on the record; no official proceeding.",
+        "source_url": "https://floridapolitics.com/archives/552249-eric-lynn-ad-hits-anna-paula-luna-as-abortion-extremist-2020-denier",
+        "date": "2022-09"
+       },
+       {
+        "text": "In February 2023 the Washington Post questioned parts of her life story, including how much family support she had, her father's time in jail, and how she described her Hispanic heritage. The Post later corrected some errors in its story.",
+        "response": "She called the story false, said the relatives quoted were not trustworthy, and denied using her heritage to win votes.",
+        "status": "No official proceeding.",
+        "source_url": "https://www.stripes.com/theaters/us/2023-02-21/anna-paulina-luna-pushing-back-national-attention-9211228.html",
+        "date": "2023-02-21"
+       },
+       {
+        "text": "On March 26, 2026, she hosted a delegation of Russian lawmakers, all under U.S. sanctions since 2022, at the Capitol. Several Republican and Democratic members criticized the visit.",
+        "response": "She said Congress should open talks with Russia to help end the war in Ukraine.",
+        "status": "No official proceeding.",
+        "source_url": "https://www.aol.com/articles/luna-hosts-russian-lawmakers-mixed-230738110.html",
+        "date": "2026-03-26"
+       }
+      ],
+      "people": {
+       "police_and_public": [],
+       "immigrants": [
+        {
+         "text": "Voted yes on the Laken Riley Act, which requires federal detention of immigrants without legal status who are charged with theft or violent crimes.",
+         "source_url": "https://clerk.house.gov/evs/2025/roll023",
+         "date": "2025-01-22"
+        }
+       ],
+       "housing": [],
+       "struggling_families": [
+        {
+         "text": "Co-sponsored a bill to cap credit card interest at 10%.",
+         "source_url": "https://en.wikipedia.org/wiki/Anna_Paulina_Luna",
+         "date": "2025-03"
+        },
+        {
+         "text": "Voted yes on the 2025 tax and spending law (One Big Beautiful Bill Act), which made the 2017 tax cuts permanent and reduced future spending on Medicaid and SNAP (food aid).",
+         "source_url": "https://clerk.house.gov/Votes/2025190",
+         "date": "2025-07-03"
+        }
+       ],
+       "race_civil_rights": [
+        {
+         "text": "Voted yes on the SAVE Act, which would require documents proving U.S. citizenship to register to vote in federal elections.",
+         "source_url": "https://clerk.house.gov/evs/2025/roll102",
+         "date": "2025-04-10"
+        }
+       ],
+       "lgbtq": [
+        {
+         "text": "Voted yes on the Protection of Women and Girls in Sports Act, which would bar transgender girls and women from girls' and women's school sports teams.",
+         "source_url": "https://clerk.house.gov/evs/2025/roll012",
+         "date": "2025-01-14"
+        }
+       ],
+       "disability_veterans": [],
+       "faith": []
+      }
+     },
+     "stances": [
+      {
+       "issue": "Taxes",
+       "found": true,
+       "summary": "Called the 2025 tax and spending law (One Big Beautiful Bill Act) the bill she was happiest to vote for, citing its tax effects.",
+       "url": "https://www.fox13news.com/news/florida-congressional-race-retired-army-leela-gray-challenges-anna-paulina-luna",
+       "type": "TV interview",
+       "date": "2026-09-08",
+       "q": "taxes",
+       "agree": 5,
+       "pos": 1,
+       "note": null
+      },
+      {
+       "issue": "Abortion",
+       "found": true,
+       "summary": "Has called herself a pro-life extremist and backed Texas's law banning abortion once a fetal heartbeat is detected.",
+       "url": "https://floridapolitics.com/archives/552249-eric-lynn-ad-hits-anna-paula-luna-as-abortion-extremist-2020-denier",
+       "type": "recorded statements (video clips)",
+       "date": "2022-09",
+       "q": "abortion",
+       "agree": 1,
+       "pos": 1,
+       "note": null
+      },
+      {
+       "issue": "Immigration enforcement",
+       "found": true,
+       "summary": "Voted for the Laken Riley Act, requiring detention of immigrants without legal status who are charged with theft or violent crimes.",
+       "url": "https://clerk.house.gov/evs/2025/roll023",
+       "type": "voting record",
+       "date": "2025-01-22",
+       "q": "immigration",
+       "agree": 4,
+       "pos": 4,
+       "note": null
+      },
+      {
+       "issue": "Foreign policy and the military",
+       "found": true,
+       "summary": "Voted against 2024 Ukraine aid. In 2026 hosted Russian lawmakers, saying talks with Russia could help end the Ukraine war.",
+       "url": "https://www.aol.com/articles/luna-hosts-russian-lawmakers-mixed-230738110.html",
+       "type": "public statements (The Hill) and voting record",
+       "date": "2026-03-26",
+       "q": null,
+       "agree": null,
+       "pos": 1,
+       "note": null
+      },
+      {
+       "issue": "Cost of living",
+       "found": true,
+       "summary": "Co-sponsored a bill with Rep. Alexandria Ocasio-Cortez to cap credit card interest rates at 10%.",
+       "url": "https://en.wikipedia.org/wiki/Anna_Paulina_Luna",
+       "type": "bill co-sponsorship",
+       "date": "2025-03",
+       "q": "afford",
+       "agree": 4,
+       "pos": 4,
+       "note": null
+      },
+      {
+       "issue": "Health care",
+       "found": false,
+       "summary": "",
+       "url": "",
+       "type": "",
+       "date": "",
+       "q": null,
+       "agree": null,
+       "pos": null,
+       "note": null
+      },
+      {
+       "issue": "Guns",
+       "found": false,
+       "summary": "",
+       "url": "",
+       "type": "",
+       "date": "",
+       "q": null,
+       "agree": null,
+       "pos": null,
+       "note": null
+      },
+      {
+       "issue": "Environment and climate",
+       "found": false,
+       "summary": "",
+       "url": "",
+       "type": "",
+       "date": "",
+       "q": null,
+       "agree": null,
+       "pos": null,
+       "note": null
+      },
+      {
+       "issue": "Social Security and Medicare",
+       "found": false,
+       "summary": "",
+       "url": "",
+       "type": "",
+       "date": "",
+       "q": null,
+       "agree": null,
+       "pos": null,
+       "note": null
+      },
+      {
+       "issue": "Public safety",
+       "found": false,
+       "summary": "",
+       "url": "",
+       "type": "",
+       "date": "",
+       "q": null,
+       "agree": null,
+       "pos": null,
+       "note": null
+      }
+     ]
+    },
+    {
+     "name": "Leela Gray",
+     "mate": null,
+     "party": "Democrat",
+     "writeIn": false,
+     "site": "",
+     "bio": "Leela Gray is a retired U.S. Army brigadier general who served more than 30 years, including three deployments, one of them to Iraq, mostly as a communications officer. She has degrees from Elon University, Ball State University and the U.S. Army War College, and after retiring she earned a law degree from Stetson and now helps veterans get health care and benefits. She has lived in the Tampa Bay area for more than 20 years with her husband and daughter.",
+     "incumbent": "",
+     "profile": {
+      "bio": "Leela Gray is a retired U.S. Army brigadier general who served more than 30 years, including three deployments, one of them to Iraq, mostly as a communications officer. She has degrees from Elon University, Ball State University and the U.S. Army War College, and after retiring she earned a law degree from Stetson and now helps veterans get health care and benefits. She has lived in the Tampa Bay area for more than 20 years with her husband and daughter.",
+      "record": [
+       {
+        "text": "Retired from the Army as a brigadier general after more than 30 years of service, including a deployment to Iraq.",
+        "source_url": "https://votevets.org/candidates/leela-gray",
+        "date": "accessed 2026-11-03"
+       },
+       {
+        "text": "Won the August 2026 Democratic primary with about 65% of the vote.",
+        "source_url": "https://www.wusf.org/politics-issues/2026-08-18/pinellas-primary-results-2026-leela-gray-wins-democratic-nomination-13th-congressional-district",
+        "date": "2026-08-18"
+       },
+       {
+        "text": "Endorsed by EMILY's List and VoteVets.",
+        "source_url": "https://emilyslist.org/news/emilys-list-congratulates-leela-gray-on-primary-victory-in-floridas-13th-congressional-district/",
+        "date": "2026-08-18"
+       },
+       {
+        "text": "Challenged Rep. Luna to a televised debate and released an internal poll showing herself ahead, which Luna disputed.",
+        "source_url": "https://www.fox13news.com/news/florida-congressional-race-retired-army-leela-gray-challenges-anna-paulina-luna",
+        "date": "2026-09-08"
+       }
+      ],
+      "onRecord": [],
+      "people": {
+       "police_and_public": [],
+       "immigrants": [],
+       "housing": [],
+       "struggling_families": [
+        {
+         "text": "Says many constituents feel forgotten and cannot get by, and criticizes cuts to Medicaid and SNAP (food aid).",
+         "source_url": "https://www.fox13news.com/news/florida-congressional-race-retired-army-leela-gray-challenges-anna-paulina-luna",
+         "date": "2026-09-08"
+        }
+       ],
+       "race_civil_rights": [],
+       "lgbtq": [],
+       "disability_veterans": [
+        {
+         "text": "Works as a lawyer helping veterans get health care and other benefits.",
+         "source_url": "https://votevets.org/candidates/leela-gray",
+         "date": "accessed 2026-11-03"
+        }
+       ],
+       "faith": []
+      }
+     },
+     "stances": [
+      {
+       "issue": "Cost of living",
+       "found": true,
+       "summary": "Says she will take on corporations and insurance monopolies (companies with little competition) she blames for rising flood and homeowners insurance costs.",
+       "url": "https://www.wusf.org/politics-issues/2026-08-18/pinellas-primary-results-2026-leela-gray-wins-democratic-nomination-13th-congressional-district",
+       "type": "WUSF voter guide answers",
+       "date": "2026-08-18",
+       "q": "afford",
+       "agree": 4,
+       "pos": 4,
+       "note": null
+      },
+      {
+       "issue": "Taxes",
+       "found": true,
+       "summary": "Supports a middle-class tax cut. No position stated on high earners or the 2025 tax law's tax parts.",
+       "url": "https://www.wusf.org/politics-issues/2026-08-18/pinellas-primary-results-2026-leela-gray-wins-democratic-nomination-13th-congressional-district",
+       "type": "WUSF voter guide answers",
+       "date": "2026-08-18",
+       "q": "taxes",
+       "agree": null,
+       "pos": null,
+       "note": null
+      },
+      {
+       "issue": "Health care",
+       "found": true,
+       "summary": "Criticizes the 2025 tax and spending law (One Big Beautiful Bill Act) for its cuts to Medicaid and SNAP (food aid).",
+       "url": "https://www.fox13news.com/news/florida-congressional-race-retired-army-leela-gray-challenges-anna-paulina-luna",
+       "type": "TV interview",
+       "date": "2026-09-08",
+       "q": "health",
+       "agree": 4,
+       "pos": 4,
+       "note": null
+      },
+      {
+       "issue": "Foreign policy and the military",
+       "found": true,
+       "summary": "Criticized U.S. military action in Iran, linking it to higher gas prices.",
+       "url": "https://www.fox13news.com/news/florida-congressional-race-retired-army-leela-gray-challenges-anna-paulina-luna",
+       "type": "TV interview",
+       "date": "2026-09-08",
+       "q": null,
+       "agree": null,
+       "pos": 2,
+       "note": null
+      },
+      {
+       "issue": "Immigration enforcement",
+       "found": false,
+       "summary": "",
+       "url": "",
+       "type": "",
+       "date": "",
+       "q": null,
+       "agree": null,
+       "pos": null,
+       "note": null
+      },
+      {
+       "issue": "Abortion",
+       "found": false,
+       "summary": "",
+       "url": "",
+       "type": "",
+       "date": "",
+       "q": null,
+       "agree": null,
+       "pos": null,
+       "note": null
+      },
+      {
+       "issue": "Guns",
+       "found": false,
+       "summary": "",
+       "url": "",
+       "type": "",
+       "date": "",
+       "q": null,
+       "agree": null,
+       "pos": null,
+       "note": null
+      },
+      {
+       "issue": "Environment and climate",
+       "found": false,
+       "summary": "",
+       "url": "",
+       "type": "",
+       "date": "",
+       "q": null,
+       "agree": null,
+       "pos": null,
+       "note": null
+      },
+      {
+       "issue": "Social Security and Medicare",
+       "found": false,
+       "summary": "",
+       "url": "",
+       "type": "",
+       "date": "",
+       "q": null,
+       "agree": null,
+       "pos": null,
+       "note": null
+      },
+      {
+       "issue": "Public safety",
+       "found": false,
+       "summary": "",
+       "url": "",
+       "type": "",
+       "date": "",
+       "q": null,
+       "agree": null,
+       "pos": null,
+       "note": null
+      }
+     ]
+    },
+    {
+     "name": "Tony D'Arrigo",
+     "mate": null,
+     "party": "No party affiliation",
+     "writeIn": false,
+     "site": "",
+     "bio": "Tony D'Arrigo was born in Hackensack, New Jersey, grew up in Brigantine, New Jersey, and moved to Tampa in 2014. He is a hospitality business consultant who owns Two Step Entertainment and is a published author. He says growing up in a lower-income home and facing job loss and large medical bills shaped his run, and he says he refuses party and corporate money.",
+     "incumbent": "",
+     "profile": {
+      "bio": "Tony D'Arrigo was born in Hackensack, New Jersey, grew up in Brigantine, New Jersey, and moved to Tampa in 2014. He is a hospitality business consultant who owns Two Step Entertainment and is a published author. He says growing up in a lower-income home and facing job loss and large medical bills shaped his run, and he says he refuses party and corporate money.",
+      "record": [
+       {
+        "text": "Ran as a write-in candidate in District 13 in 2024 and received 27 votes.",
+        "source_url": "https://ballotpedia.org/Tony_D'Arrigo",
+        "date": "accessed 2026-11-03"
+       },
+       {
+        "text": "Owns and operates Two Step Entertainment and works as a hospitality business management consultant.",
+        "source_url": "https://ballotpedia.org/Tony_D'Arrigo",
+        "date": "accessed 2026-11-03"
+       },
+       {
+        "text": "Reported about $28,000 in 2026 campaign contributions.",
+        "source_url": "https://ballotpedia.org/Tony_D'Arrigo",
+        "date": "accessed 2026-11-03"
+       }
+      ],
+      "onRecord": [],
+      "people": {
+       "police_and_public": [],
+       "immigrants": [],
+       "housing": [],
+       "struggling_families": [
+        {
+         "text": "Proposes ending federal income tax for households under $75,000 and limiting predatory lending.",
+         "source_url": "https://ballotpedia.org/Tony_D'Arrigo",
+         "date": "accessed 2026-11-03"
+        }
+       ],
+       "race_civil_rights": [],
+       "lgbtq": [],
+       "disability_veterans": [],
+       "faith": []
+      }
+     },
+     "stances": [
+      {
+       "issue": "Health care",
+       "found": true,
+       "summary": "Wants to protect the Affordable Care Act (ACA, Obamacare), expand coverage, make hospitals less private-run, and move toward universal health care (coverage for everyone).",
+       "url": "https://www.tampabay28.com/news/election-2026/meet-the-candidates-questionnaire-for-us-district-13",
+       "type": "Tampa Bay 28 candidate questionnaire",
+       "date": "2026-07-30",
+       "q": "health",
+       "agree": 5,
+       "pos": 5,
+       "note": null
+      },
+      {
+       "issue": "Social Security and Medicare",
+       "found": true,
+       "summary": "Wants to expand Medicare, Medicaid and Social Security.",
+       "url": "https://ballotpedia.org/Tony_D'Arrigo",
+       "type": "Ballotpedia candidate survey",
+       "date": "accessed 2026-11-03",
+       "q": null,
+       "agree": null,
+       "pos": 5,
+       "note": null
+      },
+      {
+       "issue": "Taxes",
+       "found": true,
+       "summary": "Wants to end federal income tax for households earning under $75,000. No position stated on high earners.",
+       "url": "https://ballotpedia.org/Tony_D'Arrigo",
+       "type": "Ballotpedia candidate survey",
+       "date": "accessed 2026-11-03",
+       "q": "taxes",
+       "agree": null,
+       "pos": null,
+       "note": null
+      },
+      {
+       "issue": "Cost of living",
+       "found": true,
+       "summary": "Wants limits on predatory lending (unfair loans), shady car-sale practices, and credit reporting problems.",
+       "url": "https://ballotpedia.org/Tony_D'Arrigo",
+       "type": "Ballotpedia candidate survey",
+       "date": "accessed 2026-11-03",
+       "q": "afford",
+       "agree": 4,
+       "pos": 4,
+       "note": null
+      },
+      {
+       "issue": "Environment and climate",
+       "found": true,
+       "summary": "Wants to end government subsidies (financial support) for fossil fuels and shift that support to clean energy.",
+       "url": "https://ballotpedia.org/Tony_D'Arrigo",
+       "type": "Ballotpedia candidate survey",
+       "date": "accessed 2026-11-03",
+       "q": "environment",
+       "agree": 4,
+       "pos": 4,
+       "note": null
+      },
+      {
+       "issue": "Immigration enforcement",
+       "found": false,
+       "summary": "",
+       "url": "",
+       "type": "",
+       "date": "",
+       "q": null,
+       "agree": null,
+       "pos": null,
+       "note": null
+      },
+      {
+       "issue": "Abortion",
+       "found": false,
+       "summary": "",
+       "url": "",
+       "type": "",
+       "date": "",
+       "q": null,
+       "agree": null,
+       "pos": null,
+       "note": null
+      },
+      {
+       "issue": "Guns",
+       "found": false,
+       "summary": "",
+       "url": "",
+       "type": "",
+       "date": "",
+       "q": null,
+       "agree": null,
+       "pos": null,
+       "note": null
+      },
+      {
+       "issue": "Foreign policy and the military",
+       "found": false,
+       "summary": "",
+       "url": "",
+       "type": "",
+       "date": "",
+       "q": null,
+       "agree": null,
+       "pos": null,
+       "note": null
+      },
+      {
+       "issue": "Public safety",
+       "found": false,
+       "summary": "",
+       "url": "",
+       "type": "",
+       "date": "",
+       "q": null,
+       "agree": null,
+       "pos": null,
+       "note": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "h14",
+   "district": 14,
+   "title": "U.S. House, District 14",
+   "blurb": "Counties: Hillsborough (part). Your representative votes on federal laws, taxes and spending for a two-year term.",
+   "notes": "",
+   "candidates": [
+    {
+     "name": "Kathy Castor",
+     "mate": null,
+     "party": "Democrat",
+     "writeIn": false,
+     "site": "https://castorforcongress.com",
+     "bio": "Kathy Castor was born in 1966 in Miami and grew up in Tampa. She is a lawyer with degrees from Emory University and Florida State University's law school, worked as a land-use attorney, and served on the Hillsborough County Commission from 2002 to 2006. She has been in Congress since January 2007 (almost 20 years), first for District 11 and for District 14 since 2013; the 2026 map kept the number but made the district more Republican.",
+     "incumbent": "Current member of Congress",
+     "profile": {
+      "bio": "Kathy Castor was born in 1966 in Miami and grew up in Tampa. She is a lawyer with degrees from Emory University and Florida State University's law school, worked as a land-use attorney, and served on the Hillsborough County Commission from 2002 to 2006. She has been in Congress since January 2007 (almost 20 years), first for District 11 and for District 14 since 2013; the 2026 map kept the number but made the district more Republican.",
+      "record": [
+       {
+        "text": "Chaired the House Select Committee on the Climate Crisis from 2019 to 2023.",
+        "source_url": "https://en.wikipedia.org/wiki/Kathy_Castor",
+        "date": "accessed 2026-11-03"
+       },
+       {
+        "text": "Proposed a 2025 bill to stop utility companies from using customers' money for lobbying and political donations.",
+        "source_url": "https://en.wikipedia.org/wiki/Kathy_Castor",
+        "date": "accessed 2026-11-03"
+       },
+       {
+        "text": "Voted no on the 2025 tax and spending law (One Big Beautiful Bill Act), which made the 2017 tax cuts permanent and reduced future spending on Medicaid and SNAP (food aid).",
+        "source_url": "https://clerk.house.gov/Votes/2025190",
+        "date": "2025-07-03"
+       },
+       {
+        "text": "On January 6, 2021, voted to count all states' 2020 electoral votes and against the objections to Arizona and Pennsylvania.",
+        "source_url": "https://patch.com/florida/southtampa/electoral-college-count-how-fls-congressional-delegation-voted",
+        "date": "2021-01-07"
+       },
+       {
+        "text": "Voted yes on the 2024 bill sending about $61 billion in military and other aid to Ukraine.",
+        "source_url": "https://clerk.house.gov/evs/2024/roll151",
+        "date": "2024-04-20"
+       }
+      ],
+      "onRecord": [
+       {
+        "text": "Her 2017 financial reports disclosed three stock trades later than the STOCK Act (a law requiring members to report trades within 45 days) allows. A 2026 ad said she repeatedly broke the law; fact-checkers rated that Mostly False.",
+        "response": "No public response found.",
+        "status": "No official finding of a violation; PolitiFact found no evidence of insider trading.",
+        "source_url": "https://mediabiasfactcheck.com/fact-check-did-kathy-castor-repeatedly-violate-the-stock-act/",
+        "date": "2026-10-26"
+       }
+      ],
+      "people": {
+       "police_and_public": [],
+       "immigrants": [
+        {
+         "text": "Voted no on the Laken Riley Act, which requires federal detention of immigrants without legal status who are charged with theft or violent crimes.",
+         "source_url": "https://clerk.house.gov/evs/2025/roll023",
+         "date": "2025-01-22"
+        }
+       ],
+       "housing": [],
+       "struggling_families": [
+        {
+         "text": "Voted no on the 2025 tax and spending law (One Big Beautiful Bill Act), which made the 2017 tax cuts permanent and reduced future spending on Medicaid and SNAP (food aid).",
+         "source_url": "https://clerk.house.gov/Votes/2025190",
+         "date": "2025-07-03"
+        }
+       ],
+       "race_civil_rights": [
+        {
+         "text": "Voted no on the SAVE Act, which would require documents proving U.S. citizenship to register to vote in federal elections.",
+         "source_url": "https://clerk.house.gov/evs/2025/roll102",
+         "date": "2025-04-10"
+        }
+       ],
+       "lgbtq": [
+        {
+         "text": "In 2005 she was the only Hillsborough County commissioner to vote against a policy barring county recognition of gay pride events.",
+         "source_url": "https://en.wikipedia.org/wiki/Kathy_Castor",
+         "date": "2005"
+        },
+        {
+         "text": "Voted yes on the Respect for Marriage Act, which requires federal and state recognition of same-sex and interracial marriages.",
+         "source_url": "https://clerk.house.gov/evs/2022/roll513",
+         "date": "2022-12-08"
+        }
+       ],
+       "disability_veterans": [
+        {
+         "text": "Sponsored expanded benefits for Iraq and Afghanistan veterans, including support for wounded veterans at the Tampa VA hospital.",
+         "source_url": "https://en.wikipedia.org/wiki/Kathy_Castor",
+         "date": "accessed 2026-11-03"
+        }
+       ],
+       "faith": []
+      }
+     },
+     "stances": [
+      {
+       "issue": "Cost of living",
+       "found": true,
+       "summary": "Says rising grocery and gas prices, which she ties to the war in Iran, are hurting residents, and plans to tackle high health care costs.",
+       "url": "https://www.wfla.com/election/district-14-congressional-candidates-take-part-in-nonpartisan-political-forum/amp/",
+       "type": "candidate forum remarks",
+       "date": "2026-10-16",
+       "q": "afford",
+       "agree": null,
+       "pos": null,
+       "note": null
+      },
+      {
+       "issue": "Taxes",
+       "found": true,
+       "summary": "Voted against the 2025 tax and spending law (One Big Beautiful Bill Act) that made the 2017 tax cuts permanent.",
+       "url": "https://clerk.house.gov/Votes/2025190",
+       "type": "voting record",
+       "date": "2025-07-03",
+       "q": "taxes",
+       "agree": 2,
+       "pos": 4,
+       "note": null
+      },
+      {
+       "issue": "Health care",
+       "found": true,
+       "summary": "Supported the Affordable Care Act (ACA, Obamacare) and criticized Florida for not expanding Medicaid; says families can no longer afford health care.",
+       "url": "https://en.wikipedia.org/wiki/Kathy_Castor",
+       "type": "voting record and public statements",
+       "date": "accessed 2026-11-03",
+       "q": "health",
+       "agree": 4,
+       "pos": 4,
+       "note": null
+      },
+      {
+       "issue": "Immigration enforcement",
+       "found": true,
+       "summary": "Supports comprehensive immigration reform and voted against the Laken Riley Act, which requires detaining immigrants without legal status charged with theft or violent crimes.",
+       "url": "https://clerk.house.gov/evs/2025/roll023",
+       "type": "voting record",
+       "date": "2025-01-22",
+       "q": "immigration",
+       "agree": 2,
+       "pos": 2,
+       "note": null
+      },
+      {
+       "issue": "Abortion",
+       "found": true,
+       "summary": "Voted for the Women's Health Protection Act, which would have made abortion access a federal legal right.",
+       "url": "https://clerk.house.gov/evs/2022/roll360",
+       "type": "voting record",
+       "date": "2022-07-15",
+       "q": "abortion",
+       "agree": 5,
+       "pos": 5,
+       "note": null
+      },
+      {
+       "issue": "Guns",
+       "found": true,
+       "summary": "Supports expanded background checks, a ban on high-capacity magazines, and bringing back the federal assault weapons ban.",
+       "url": "https://en.wikipedia.org/wiki/Kathy_Castor",
+       "type": "public positions",
+       "date": "accessed 2026-11-03",
+       "q": "guns",
+       "agree": 5,
+       "pos": 5,
+       "note": null
+      },
+      {
+       "issue": "Environment and climate",
+       "found": true,
+       "summary": "Led the House climate committee, which wrote a broad plan to cut pollution that warms the planet, and supported the Climate Action Now Act (keeping the U.S. in the Paris climate agreement).",
+       "url": "https://en.wikipedia.org/wiki/Kathy_Castor",
+       "type": "committee leadership and voting record",
+       "date": "accessed 2026-11-03",
+       "q": "environment",
+       "agree": 5,
+       "pos": 5,
+       "note": null
+      },
+      {
+       "issue": "Foreign policy and the military",
+       "found": true,
+       "summary": "Voted for 2024 aid to Ukraine and for 2023 security aid to Israel after the October 7 Hamas attacks.",
+       "url": "https://clerk.house.gov/evs/2024/roll151",
+       "type": "voting record",
+       "date": "2024-04-20",
+       "q": null,
+       "agree": null,
+       "pos": 4,
+       "note": null
+      },
+      {
+       "issue": "Social Security and Medicare",
+       "found": false,
+       "summary": "",
+       "url": "",
+       "type": "",
+       "date": "",
+       "q": null,
+       "agree": null,
+       "pos": null,
+       "note": null
+      },
+      {
+       "issue": "Public safety",
+       "found": false,
+       "summary": "",
+       "url": "",
+       "type": "",
+       "date": "",
+       "q": null,
+       "agree": null,
+       "pos": null,
+       "note": null
+      }
+     ]
+    },
+    {
+     "name": "Mike Beltran",
+     "mate": null,
+     "party": "Republican",
+     "writeIn": false,
+     "site": "",
+     "bio": "Mike Beltran was born in 1984 in New York City and is a lawyer who has practiced in the Tampa Bay area for almost 20 years. He earned degrees from the University of Pennsylvania and Harvard Law School. He served six years in the Florida House (2018-2024) representing East Hillsborough County and is married with two sons.",
+     "incumbent": "",
+     "profile": {
+      "bio": "Mike Beltran was born in 1984 in New York City and is a lawyer who has practiced in the Tampa Bay area for almost 20 years. He earned degrees from the University of Pennsylvania and Harvard Law School. He served six years in the Florida House (2018-2024) representing East Hillsborough County and is married with two sons.",
+      "record": [
+       {
+        "text": "Served three terms in the Florida House, from 2018 to 2024, representing East Hillsborough County, and did not seek a fourth term.",
+        "source_url": "https://en.wikipedia.org/wiki/Mike_Beltran",
+        "date": "accessed 2026-11-03"
+       },
+       {
+        "text": "In 2023 filed a proposal to allow open carry of guns in Florida, then withdrew it after the House speaker and Senate president opposed it.",
+        "source_url": "https://floridaphoenix.com/2026/08/07/hillsborough-republicans-vie-to-try-to-defeat-kathy-castor-after-20-years-in-congress/",
+        "date": "2026-08-07"
+       },
+       {
+        "text": "Sponsored state bills limiting minors' vaping near schools and creating an anonymous safe-haven option for parents to surrender infants at hospitals.",
+        "source_url": "https://en.wikipedia.org/wiki/Mike_Beltran",
+        "date": "accessed 2026-11-03"
+       },
+       {
+        "text": "Won the August 18, 2026 Republican primary with about 45.6% of the vote.",
+        "source_url": "https://en.wikipedia.org/wiki/Mike_Beltran",
+        "date": "accessed 2026-11-03"
+       }
+      ],
+      "onRecord": [],
+      "people": {
+       "police_and_public": [],
+       "immigrants": [
+        {
+         "text": "Says he would push a constitutional amendment to end automatic citizenship for some U.S.-born children of noncitizens.",
+         "source_url": "https://floridaphoenix.com/2026/08/07/hillsborough-republicans-vie-to-try-to-defeat-kathy-castor-after-20-years-in-congress/",
+         "date": "2026-08-07"
+        }
+       ],
+       "housing": [],
+       "struggling_families": [
+        {
+         "text": "Sponsored a state law letting parents anonymously surrender infants at hospitals (safe haven).",
+         "source_url": "https://en.wikipedia.org/wiki/Mike_Beltran",
+         "date": "accessed 2026-11-03"
+        }
+       ],
+       "race_civil_rights": [],
+       "lgbtq": [
+        {
+         "text": "Opposes using taxpayer money for gender transition surgery for minors.",
+         "source_url": "https://www.foxnews.com/politics/florida-gop-nominee-blasts-20-year-dem-incumbent-socialist-rubber-stamp-precious-little-show.print",
+         "date": "2026-09-25"
+        }
+       ],
+       "disability_veterans": [
+        {
+         "text": "Sponsored a state law letting graduating high school students wear U.S. Armed Forces uniforms at graduation.",
+         "source_url": "https://en.wikipedia.org/wiki/Mike_Beltran",
+         "date": "accessed 2026-11-03"
+        }
+       ],
+       "faith": []
+      }
+     },
+     "stances": [
+      {
+       "issue": "Abortion",
+       "found": true,
+       "summary": "Wants Florida to ban all abortions instead of keeping its current six-week limit.",
+       "url": "https://floridaphoenix.com/2026/08/07/hillsborough-republicans-vie-to-try-to-defeat-kathy-castor-after-20-years-in-congress/",
+       "type": "campaign event remarks",
+       "date": "2026-08-07",
+       "q": "abortion",
+       "agree": 1,
+       "pos": 1,
+       "note": null
+      },
+      {
+       "issue": "Guns",
+       "found": true,
+       "summary": "Filed a 2023 proposal to let Floridians openly carry guns.",
+       "url": "https://floridaphoenix.com/2026/08/07/hillsborough-republicans-vie-to-try-to-defeat-kathy-castor-after-20-years-in-congress/",
+       "type": "legislative record",
+       "date": "2026-08-07",
+       "q": "guns",
+       "agree": 1,
+       "pos": 1,
+       "note": null
+      },
+      {
+       "issue": "Immigration enforcement",
+       "found": true,
+       "summary": "Would push a constitutional amendment to end automatic U.S. citizenship for some children born here to noncitizen parents, targeting what he calls birth tourism.",
+       "url": "https://floridaphoenix.com/2026/08/07/hillsborough-republicans-vie-to-try-to-defeat-kathy-castor-after-20-years-in-congress/",
+       "type": "campaign event remarks",
+       "date": "2026-08-07",
+       "q": "immigration",
+       "agree": 5,
+       "pos": 5,
+       "note": null
+      },
+      {
+       "issue": "Taxes",
+       "found": true,
+       "summary": "Supports ending federal taxes on tips, overtime pay and Social Security benefits, and wants to cut spending to balance the budget.",
+       "url": "https://www.foxnews.com/politics/florida-gop-nominee-blasts-20-year-dem-incumbent-socialist-rubber-stamp-precious-little-show.print",
+       "type": "TV interview",
+       "date": "2026-09-25",
+       "q": "taxes",
+       "agree": 5,
+       "pos": 1,
+       "note": null
+      },
+      {
+       "issue": "Foreign policy and the military",
+       "found": true,
+       "summary": "Says wealthy U.S. allies should pay more of their own defense costs instead of relying on American money.",
+       "url": "https://www.foxnews.com/politics/florida-gop-nominee-blasts-20-year-dem-incumbent-socialist-rubber-stamp-precious-little-show.print",
+       "type": "TV interview",
+       "date": "2026-09-25",
+       "q": null,
+       "agree": null,
+       "pos": 2,
+       "note": null
+      },
+      {
+       "issue": "Cost of living",
+       "found": false,
+       "summary": "",
+       "url": "",
+       "type": "",
+       "date": "",
+       "q": null,
+       "agree": null,
+       "pos": null,
+       "note": null
+      },
+      {
+       "issue": "Health care",
+       "found": false,
+       "summary": "",
+       "url": "",
+       "type": "",
+       "date": "",
+       "q": null,
+       "agree": null,
+       "pos": null,
+       "note": null
+      },
+      {
+       "issue": "Environment and climate",
+       "found": false,
+       "summary": "",
+       "url": "",
+       "type": "",
+       "date": "",
+       "q": null,
+       "agree": null,
+       "pos": null,
+       "note": null
+      },
+      {
+       "issue": "Social Security and Medicare",
+       "found": false,
+       "summary": "",
+       "url": "",
+       "type": "",
+       "date": "",
+       "q": null,
+       "agree": null,
+       "pos": null,
+       "note": null
+      },
+      {
+       "issue": "Public safety",
+       "found": false,
+       "summary": "",
+       "url": "",
+       "type": "",
+       "date": "",
+       "q": null,
+       "agree": null,
+       "pos": null,
+       "note": null
+      }
+     ]
+    },
+    {
+     "name": "Brian Lambert",
+     "mate": null,
+     "party": "Libertarian",
+     "writeIn": false,
+     "site": "",
+     "bio": "Brian Lambert served 20 years in the U.S. Navy, from 1998 to 2018, rising to petty officer first class. He earned a bachelor's degree from the University of Arizona Global Campus and has volunteered with Florida Baptist Disaster Relief and as a motorcycle safety instructor. He describes himself as a Southern Baptist Christian and a conservative-leaning Libertarian.",
+     "incumbent": "",
+     "profile": {
+      "bio": "Brian Lambert served 20 years in the U.S. Navy, from 1998 to 2018, rising to petty officer first class. He earned a bachelor's degree from the University of Arizona Global Campus and has volunteered with Florida Baptist Disaster Relief and as a motorcycle safety instructor. He describes himself as a Southern Baptist Christian and a conservative-leaning Libertarian.",
+      "record": [
+       {
+        "text": "Served in the U.S. Navy from 1998 to 2018, retiring as a petty officer first class.",
+        "source_url": "https://ivoterguide.com/candidate/78285",
+        "date": "accessed 2026-11-03"
+       },
+       {
+        "text": "Volunteered with Florida Baptist Disaster Relief (2022-2026) and taught motorcycle safety courses (2008-2020).",
+        "source_url": "https://ivoterguide.com/candidate/78285",
+        "date": "accessed 2026-11-03"
+       },
+       {
+        "text": "Endorsed by the Libertarian Party of Hillsborough County.",
+        "source_url": "https://ivoterguide.com/candidate/78285",
+        "date": "accessed 2026-11-03"
+       }
+      ],
+      "onRecord": [],
+      "people": {
+       "police_and_public": [],
+       "immigrants": [],
+       "housing": [],
+       "struggling_families": [],
+       "race_civil_rights": [],
+       "lgbtq": [
+        {
+         "text": "Says transitioning a child's gender is child abuse and opposes transgender women in women's sports; says marriage is between a man and a woman but government should not enforce that belief.",
+         "source_url": "https://ivoterguide.com/candidate/78285",
+         "date": "2026 (survey, accessed 2026-11-03)"
+        }
+       ],
+       "disability_veterans": [],
+       "faith": [
+        {
+         "text": "Says people and businesses should not be required to provide services that violate their beliefs, and opposes government suppressing faith in public life.",
+         "source_url": "https://ivoterguide.com/candidate/78285",
+         "date": "2026 (survey, accessed 2026-11-03)"
+        }
+       ]
+      }
+     },
+     "stances": [
+      {
+       "issue": "Taxes",
+       "found": true,
+       "summary": "Supports a flat tax (one rate for everyone) and disagrees that people who can afford more should pay more.",
+       "url": "https://ivoterguide.com/candidate/78285",
+       "type": "iVoterGuide candidate survey",
+       "date": "2026 (survey, accessed 2026-11-03)",
+       "q": "taxes",
+       "agree": 5,
+       "pos": 1,
+       "note": null
+      },
+      {
+       "issue": "Immigration enforcement",
+       "found": true,
+       "summary": "Supports a secure border, a working legal immigration system and levels the country can absorb; opposes sanctuary cities (places that limit help to federal immigration agents).",
+       "url": "https://ivoterguide.com/candidate/78285",
+       "type": "iVoterGuide candidate survey",
+       "date": "2026 (survey, accessed 2026-11-03)",
+       "q": "immigration",
+       "agree": 4,
+       "pos": 4,
+       "note": null
+      },
+      {
+       "issue": "Health care",
+       "found": true,
+       "summary": "Would keep Medicare and Medicaid but says no other taxpayer-funded health programs are needed.",
+       "url": "https://ivoterguide.com/candidate/78285",
+       "type": "iVoterGuide candidate survey",
+       "date": "2026 (survey, accessed 2026-11-03)",
+       "q": "health",
+       "agree": 2,
+       "pos": 2,
+       "note": null
+      },
+      {
+       "issue": "Abortion",
+       "found": true,
+       "summary": "Personally opposes abortion but says government should not dictate medical decisions; opposes taxpayer money for abortion providers and enforcing the Comstock Act (an 1873 mailing law).",
+       "url": "https://ivoterguide.com/candidate/78285",
+       "type": "iVoterGuide candidate survey",
+       "date": "2026 (survey, accessed 2026-11-03)",
+       "q": "abortion",
+       "agree": 3,
+       "pos": 3,
+       "note": null
+      },
+      {
+       "issue": "Guns",
+       "found": true,
+       "summary": "Opposes new limits on law-abiding gun owners but supports enforcing existing bans for felons, domestic abusers and dangerously mentally ill people.",
+       "url": "https://ivoterguide.com/candidate/78285",
+       "type": "iVoterGuide candidate survey",
+       "date": "2026 (survey, accessed 2026-11-03)",
+       "q": "guns",
+       "agree": 2,
+       "pos": 2,
+       "note": null
+      },
+      {
+       "issue": "Environment and climate",
+       "found": true,
+       "summary": "Calls nuclear power the most reliable source for growing electricity demand. No stated climate change position.",
+       "url": "https://ivoterguide.com/candidate/78285",
+       "type": "iVoterGuide candidate survey",
+       "date": "2026 (survey, accessed 2026-11-03)",
+       "q": "environment",
+       "agree": 2,
+       "pos": 2,
+       "note": null
+      },
+      {
+       "issue": "Foreign policy and the military",
+       "found": true,
+       "summary": "Wants the U.S. to intervene abroad only when facing imminent danger and to phase out foreign aid to all countries, including Israel.",
+       "url": "https://ivoterguide.com/candidate/78285",
+       "type": "iVoterGuide candidate survey",
+       "date": "2026 (survey, accessed 2026-11-03)",
+       "q": null,
+       "agree": null,
+       "pos": 1,
+       "note": null
+      },
+      {
+       "issue": "Cost of living",
+       "found": false,
+       "summary": "",
+       "url": "",
+       "type": "",
+       "date": "",
+       "q": null,
+       "agree": null,
+       "pos": null,
+       "note": null
+      },
+      {
+       "issue": "Social Security and Medicare",
+       "found": false,
+       "summary": "",
+       "url": "",
+       "type": "",
+       "date": "",
+       "q": null,
+       "agree": null,
+       "pos": null,
+       "note": null
+      },
+      {
+       "issue": "Public safety",
+       "found": false,
+       "summary": "",
+       "url": "",
+       "type": "",
+       "date": "",
+       "q": null,
+       "agree": null,
+       "pos": null,
+       "note": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "h15",
+   "district": 15,
+   "title": "U.S. House, District 15",
+   "blurb": "Counties: Citrus, Hernando, Pasco (part), Hillsborough (part). Your representative votes on federal laws, taxes and spending for a two-year term.",
+   "notes": "",
+   "candidates": [
+    {
+     "name": "Laurel Lee",
+     "mate": null,
+     "party": "Republican",
+     "writeIn": false,
+     "site": "",
+     "bio": "Laurel Lee was born in 1974 at Wright-Patterson Air Force Base in Ohio, the daughter of an Air Force officer and a public school teacher. She earned her bachelor's and law degrees from the University of Florida, worked as a federal prosecutor and federal public defender, served as a Hillsborough County circuit judge (2013-2019), and was Florida's Secretary of State (2019-2022). She has represented District 15 since January 2023 (about four years).",
+     "incumbent": "Current member of Congress",
+     "profile": {
+      "bio": "Laurel Lee was born in 1974 at Wright-Patterson Air Force Base in Ohio, the daughter of an Air Force officer and a public school teacher. She earned her bachelor's and law degrees from the University of Florida, worked as a federal prosecutor and federal public defender, served as a Hillsborough County circuit judge (2013-2019), and was Florida's Secretary of State (2019-2022). She has represented District 15 since January 2023 (about four years).",
+      "record": [
+       {
+        "text": "Served as Florida's Secretary of State from January 2019 to May 2022, overseeing the state's 2020 election.",
+        "source_url": "https://en.wikipedia.org/wiki/Laurel_Lee",
+        "date": "accessed 2026-11-03"
+       },
+       {
+        "text": "Led the House version of the REPORT Act, signed into law in May 2024, which requires online companies to report more child sexual exploitation and keep evidence longer.",
+        "source_url": "https://laurellee.house.gov/media/press-releases/signed-law-rep-laurel-lees-bill-help-stop-online-exploitation-children",
+        "date": "2024-05"
+       },
+       {
+        "text": "Was lead sponsor of a 2024 bill to renew FISA Section 702, a law letting U.S. spy agencies collect foreign communications, and was a House impeachment manager against Homeland Security Secretary Alejandro Mayorkas.",
+        "source_url": "https://en.wikipedia.org/wiki/Laurel_Lee",
+        "date": "accessed 2026-11-03"
+       },
+       {
+        "text": "Voted yes on the 2025 tax and spending law (One Big Beautiful Bill Act), which made the 2017 tax cuts permanent and reduced future spending on Medicaid and SNAP (food aid).",
+        "source_url": "https://clerk.house.gov/Votes/2025190",
+        "date": "2025-07-03"
+       },
+       {
+        "text": "Voted no on the 2024 bill sending about $61 billion in military and other aid to Ukraine.",
+        "source_url": "https://clerk.house.gov/evs/2024/roll151",
+        "date": "2024-04-20"
+       }
+      ],
+      "onRecord": [],
+      "people": {
+       "police_and_public": [
+        {
+         "text": "Sponsors the RIPPLE Act to pay local police overtime and staffing costs for immigration enforcement work.",
+         "source_url": "https://floridapolitics.com/archives/743629-ashley-moody-laurel-lee-pitch-legislation-in-congress-to-step-up-immigration-measures",
+         "date": "2025-06"
+        }
+       ],
+       "immigrants": [
+        {
+         "text": "Voted yes on the Laken Riley Act, which requires federal detention of immigrants without legal status who are charged with theft or violent crimes.",
+         "source_url": "https://clerk.house.gov/evs/2025/roll023",
+         "date": "2025-01-22"
+        }
+       ],
+       "housing": [],
+       "struggling_families": [
+        {
+         "text": "Voted yes on the 2025 tax and spending law (One Big Beautiful Bill Act), which made the 2017 tax cuts permanent and reduced future spending on Medicaid and SNAP (food aid).",
+         "source_url": "https://clerk.house.gov/Votes/2025190",
+         "date": "2025-07-03"
+        }
+       ],
+       "race_civil_rights": [
+        {
+         "text": "Voted yes on the SAVE Act, which would require documents proving U.S. citizenship to register to vote in federal elections.",
+         "source_url": "https://clerk.house.gov/evs/2025/roll102",
+         "date": "2025-04-10"
+        }
+       ],
+       "lgbtq": [
+        {
+         "text": "Voted yes on the Protection of Women and Girls in Sports Act, which would bar transgender girls and women from girls' and women's school sports teams.",
+         "source_url": "https://clerk.house.gov/evs/2025/roll012",
+         "date": "2025-01-14"
+        }
+       ],
+       "disability_veterans": [],
+       "faith": []
+      }
+     },
+     "stances": [
+      {
+       "issue": "Immigration enforcement",
+       "found": true,
+       "summary": "Sponsors the RIPPLE Act, which would pay overtime and staff costs for local police who help enforce federal immigration law.",
+       "url": "https://floridapolitics.com/archives/743629-ashley-moody-laurel-lee-pitch-legislation-in-congress-to-step-up-immigration-measures",
+       "type": "bill sponsorship and public statement",
+       "date": "2025-06",
+       "q": "immigration",
+       "agree": 5,
+       "pos": 5,
+       "note": null
+      },
+      {
+       "issue": "Taxes",
+       "found": true,
+       "summary": "Voted for the 2025 tax and spending law (One Big Beautiful Bill Act) that made the 2017 tax cuts permanent.",
+       "url": "https://clerk.house.gov/Votes/2025190",
+       "type": "voting record",
+       "date": "2025-07-03",
+       "q": "taxes",
+       "agree": 5,
+       "pos": 1,
+       "note": null
+      },
+      {
+       "issue": "Foreign policy and the military",
+       "found": true,
+       "summary": "Voted against the 2024 bill sending about $61 billion in military and other aid to Ukraine.",
+       "url": "https://clerk.house.gov/evs/2024/roll151",
+       "type": "voting record",
+       "date": "2024-04-20",
+       "q": null,
+       "agree": null,
+       "pos": 2,
+       "note": null
+      },
+      {
+       "issue": "Public safety",
+       "found": true,
+       "summary": "Led the REPORT Act, now law, requiring online companies to report more crimes of child sexual exploitation to investigators.",
+       "url": "https://laurellee.house.gov/media/press-releases/signed-law-rep-laurel-lees-bill-help-stop-online-exploitation-children",
+       "type": "legislative record",
+       "date": "2024-05",
+       "q": "safety",
+       "agree": 4,
+       "pos": 4,
+       "note": null
+      },
+      {
+       "issue": "Cost of living",
+       "found": false,
+       "summary": "",
+       "url": "",
+       "type": "",
+       "date": "",
+       "q": null,
+       "agree": null,
+       "pos": null,
+       "note": null
+      },
+      {
+       "issue": "Health care",
+       "found": false,
+       "summary": "",
+       "url": "",
+       "type": "",
+       "date": "",
+       "q": null,
+       "agree": null,
+       "pos": null,
+       "note": null
+      },
+      {
+       "issue": "Abortion",
+       "found": false,
+       "summary": "",
+       "url": "",
+       "type": "",
+       "date": "",
+       "q": null,
+       "agree": null,
+       "pos": null,
+       "note": null
+      },
+      {
+       "issue": "Guns",
+       "found": false,
+       "summary": "",
+       "url": "",
+       "type": "",
+       "date": "",
+       "q": null,
+       "agree": null,
+       "pos": null,
+       "note": null
+      },
+      {
+       "issue": "Environment and climate",
+       "found": false,
+       "summary": "",
+       "url": "",
+       "type": "",
+       "date": "",
+       "q": null,
+       "agree": null,
+       "pos": null,
+       "note": null
+      },
+      {
+       "issue": "Social Security and Medicare",
+       "found": false,
+       "summary": "",
+       "url": "",
+       "type": "",
+       "date": "",
+       "q": null,
+       "agree": null,
+       "pos": null,
+       "note": null
+      }
+     ]
+    },
+    {
+     "name": "Robert People",
+     "mate": null,
+     "party": "Democrat",
+     "writeIn": false,
+     "site": "https://peopleforcongress.com",
+     "bio": "Robert People was born in 1979 in Baltimore, Maryland, and grew up with a single mother in poverty. He joined the U.S. Army at 18 and served 21 years as an ammunition specialist and Army journalist, including two combat tours in Iraq and one in Afghanistan, retiring in 2018. He now lives in Hillsborough County and lists his job as writer.",
+     "incumbent": "",
+     "profile": {
+      "bio": "Robert People was born in 1979 in Baltimore, Maryland, and grew up with a single mother in poverty. He joined the U.S. Army at 18 and served 21 years as an ammunition specialist and Army journalist, including two combat tours in Iraq and one in Afghanistan, retiring in 2018. He now lives in Hillsborough County and lists his job as writer.",
+      "record": [
+       {
+        "text": "Served in the U.S. Army from 1997 to 2018, with three combat tours.",
+        "source_url": "https://peopleforcongress.com",
+        "date": "accessed 2026-11-03"
+       },
+       {
+        "text": "Won the August 18, 2026 Democratic primary with 53.7% of the vote over Christopher Irizarry.",
+        "source_url": "https://ballotpedia.org/Robert_People_(Florida)",
+        "date": "accessed 2026-11-03"
+       },
+       {
+        "text": "Reported about $82,500 in campaign contributions; endorsed by Emgage Action, a Muslim American civic group.",
+        "source_url": "https://ballotpedia.org/Robert_People_(Florida)",
+        "date": "accessed 2026-11-03"
+       }
+      ],
+      "onRecord": [],
+      "people": {
+       "police_and_public": [],
+       "immigrants": [
+        {
+         "text": "Wants ICE agents required to identify themselves.",
+         "source_url": "https://ballotpedia.org/Robert_People_(Florida)",
+         "date": "accessed 2026-11-03"
+        }
+       ],
+       "housing": [],
+       "struggling_families": [
+        {
+         "text": "Says every child should have access to nutritious school meals.",
+         "source_url": "https://www.chronicleonline.com/opinion/editorials/our-recommendation-u-s-house-of-representatives/article_c861514b-e0eb-51e0-b575-14ce20eebab2.html",
+         "date": "2026-07-15"
+        }
+       ],
+       "race_civil_rights": [],
+       "lgbtq": [],
+       "disability_veterans": [
+        {
+         "text": "Lists protecting Social Security disability and SSI (Supplemental Security Income) payments as priorities.",
+         "source_url": "https://peopleforcongress.com",
+         "date": "accessed 2026-11-03"
+        }
+       ],
+       "faith": []
+      }
+     },
+     "stances": [
+      {
+       "issue": "Health care",
+       "found": true,
+       "summary": "Supports Medicare for All (one government health plan covering everyone) and calls health care a right.",
+       "url": "https://www.chronicleonline.com/opinion/editorials/our-recommendation-u-s-house-of-representatives/article_c861514b-e0eb-51e0-b575-14ce20eebab2.html",
+       "type": "candidate interview (Citrus County Chronicle)",
+       "date": "2026-07-15",
+       "q": "health",
+       "agree": 5,
+       "pos": 5,
+       "note": null
+      },
+      {
+       "issue": "Social Security and Medicare",
+       "found": true,
+       "summary": "Wants to protect Social Security by removing the cap on wages taxed for it, so higher earners pay on all their income.",
+       "url": "https://www.chronicleonline.com/news/elections/u-s-congress-district-15-army-veterans-face-off-to-challenge-lee/article_f63459d9-9946-51e5-8090-144ae837917f.html",
+       "type": "candidate interview (Citrus County Chronicle)",
+       "date": "2026-07-06",
+       "q": null,
+       "agree": null,
+       "pos": 5,
+       "note": null
+      },
+      {
+       "issue": "Taxes",
+       "found": true,
+       "summary": "Supports ending the payroll tax cap so high earners pay Social Security tax on all wages.",
+       "url": "https://www.chronicleonline.com/news/elections/u-s-congress-district-15-army-veterans-face-off-to-challenge-lee/article_f63459d9-9946-51e5-8090-144ae837917f.html",
+       "type": "candidate interview (Citrus County Chronicle)",
+       "date": "2026-07-06",
+       "q": "taxes",
+       "agree": 2,
+       "pos": 4,
+       "note": null
+      },
+      {
+       "issue": "Immigration enforcement",
+       "found": true,
+       "summary": "Wants ICE (Immigration and Customs Enforcement) agents required to identify themselves.",
+       "url": "https://ballotpedia.org/Robert_People_(Florida)",
+       "type": "Ballotpedia candidate survey (2025)",
+       "date": "accessed 2026-11-03",
+       "q": "immigration",
+       "agree": 2,
+       "pos": 2,
+       "note": null
+      },
+      {
+       "issue": "Abortion",
+       "found": true,
+       "summary": "Wants more attention to women's reproductive and health rights. No specific bill named.",
+       "url": "https://ballotpedia.org/Robert_People_(Florida)",
+       "type": "Ballotpedia candidate survey (2025)",
+       "date": "accessed 2026-11-03",
+       "q": "abortion",
+       "agree": 4,
+       "pos": 4,
+       "note": null
+      },
+      {
+       "issue": "Foreign policy and the military",
+       "found": true,
+       "summary": "Opposes U.S. arms shipments to Israel and says he rejects AIPAC (a pro-Israel lobbying group).",
+       "url": "https://peopleforcongress.com",
+       "type": "campaign website",
+       "date": "accessed 2026-11-03",
+       "q": null,
+       "agree": null,
+       "pos": 2,
+       "note": null
+      },
+      {
+       "issue": "Environment and climate",
+       "found": true,
+       "summary": "Lists clean energy and environmental protections as priorities, and opposes data centers where communities do not want them.",
+       "url": "https://peopleforcongress.com",
+       "type": "campaign website",
+       "date": "accessed 2026-11-03",
+       "q": "environment",
+       "agree": 4,
+       "pos": 4,
+       "note": null
+      },
+      {
+       "issue": "Cost of living",
+       "found": false,
+       "summary": "",
+       "url": "",
+       "type": "",
+       "date": "",
+       "q": null,
+       "agree": null,
+       "pos": null,
+       "note": null
+      },
+      {
+       "issue": "Guns",
+       "found": false,
+       "summary": "",
+       "url": "",
+       "type": "",
+       "date": "",
+       "q": null,
+       "agree": null,
+       "pos": null,
+       "note": null
+      },
+      {
+       "issue": "Public safety",
+       "found": false,
+       "summary": "",
+       "url": "",
+       "type": "",
+       "date": "",
+       "q": null,
+       "agree": null,
+       "pos": null,
+       "note": null
+      }
+     ]
+    }
+   ]
+  },
+  {
    "id": "h16",
    "district": 16,
    "title": "U.S. House, District 16",
@@ -10478,7 +14004,7 @@ window.BALLOT = {
   "whereToVote": "Polls are open 7 a.m. to 7 p.m. On Election Day you vote at your assigned polling place. Find it, and your exact sample ballot, through your <a href=\"https://dos.elections.myflorida.com/supervisors/\" target=\"_blank\" rel=\"noopener\">county Supervisor of Elections</a>."
  },
  "updated": "November 3, 2026",
- "contactEndpoint": "",
+ "contactEndpoint": "https://script.google.com/macros/s/AKfycbx0taxPnOU4D6K1DT6sSQjfoUJSNe6gcOZwxHsL_uUObFKFNxiLJW37CcwO9g8RDOkvRA/exec",
  "glossary": [
   {
    "term": "Incumbent",
