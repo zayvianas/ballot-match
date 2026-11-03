@@ -106,7 +106,7 @@
   // ---------- contact form ----------
   // Messages post to a Google Apps Script web app that emails Zayviana, labels the thread, and logs it to a Sheet.
   var CONTACT_ENDPOINT = (B.contactEndpoint || "");
-  var KINDS = [["mistake", "Report a mistake"], ["thanks", "Say thanks"], ["question", "Ask a question"], ["state", "Add my state"]];
+  var KINDS = [["mistake", "Report a mistake"], ["feedback", "Give feedback"], ["thanks", "Say thanks"], ["question", "Ask a question"], ["state", "Add my state"]];
   function reportBox(about) {
     return '<div class="report"><div><b>See something wrong?</b><p>Tell us and we\'ll check it against the source and fix it.</p></div>' +
       '<button type="button" class="btn ghost" data-contact="mistake" data-about="' + esc(about) + '">Report a mistake</button></div>';
@@ -138,7 +138,7 @@
       var k = (form.querySelector('input[name="kind"]:checked') || {}).value || "mistake";
       var mistake = k === "mistake";
       form.querySelector("#csrcWrap").hidden = !mistake; form.querySelector("#csrc").hidden = !mistake;
-      form.querySelector("#cmsgLabel").textContent = mistake ? "What's wrong, and what should it say?" : k === "state" ? "Which state, and how would you like to help?" : "Your message";
+      form.querySelector("#cmsgLabel").textContent = mistake ? "What's wrong, and what should it say?" : k === "feedback" ? "What's working, and what could be better?" : k === "state" ? "Which state, and how would you like to help?" : "Your message";
       form.querySelector("#cmsgHint").textContent = mistake ? "Be as specific as you can. We check every report against the source before changing anything." : "";
     }
     form.querySelectorAll('input[name="kind"]').forEach(function (r) { r.onchange = sync; });
