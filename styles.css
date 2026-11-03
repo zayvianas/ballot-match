@@ -386,3 +386,27 @@ dialog.contact { width: min(620px, 100vw - 24px); }
 .cmp-house { max-width: 360px; margin: -4px 0 18px; }
 .house-list { margin-top: 24px; }
 .house-list .dist.panel { margin-bottom: 20px; }
+
+/* phone menu */
+.menu-btn { display: none; }
+@media (max-width: 759px) {
+  .top-in { flex-wrap: nowrap; gap: 12px; position: relative; }
+  .brand { margin-right: auto; white-space: nowrap; font-size: 1.05rem; }
+  .place { font-size: .82rem; white-space: nowrap; }
+  .menu-btn .menu-label { min-width: 2.6em; }
+  .menu-btn { all: unset; box-sizing: border-box; display: inline-flex; align-items: center; gap: 8px; cursor: pointer; font-weight: 700; font-size: .92rem; color: var(--blue); padding: 8px 12px; border: 1.5px solid var(--rule); border-radius: 10px; min-height: 42px; }
+  .menu-btn:focus-visible { outline: 3px solid var(--focus); outline-offset: 2px; }
+  .bars, .bars::before, .bars::after { display: block; width: 18px; height: 2px; background: var(--blue); border-radius: 2px; position: relative; transition: transform .15s ease, background-color .15s ease; }
+  .bars::before, .bars::after { content: ""; position: absolute; left: 0; }
+  .bars::before { top: -6px; } .bars::after { top: 6px; }
+  .menu-btn[aria-expanded="true"] .bars { background: transparent; }
+  .menu-btn[aria-expanded="true"] .bars::before { transform: translateY(6px) rotate(45deg); }
+  .menu-btn[aria-expanded="true"] .bars::after { transform: translateY(-6px) rotate(-45deg); }
+  nav { display: none; position: absolute; left: 0; right: 0; top: 100%; z-index: 30; flex-direction: column; gap: 0; background: var(--sheet); border-bottom: 1px solid var(--rule); box-shadow: 0 14px 30px rgba(20,33,61,.12); padding: 6px max(20px, env(safe-area-inset-right, 0px)) 12px max(20px, env(safe-area-inset-left, 0px)); }
+  nav.open { display: flex; }
+  nav a { padding: 14px 4px; font-size: 1.05rem; border-bottom: 1px solid var(--rule-soft); margin: 0; }
+  nav a:last-child { border-bottom: 0; }
+  nav a[aria-current="page"] { box-shadow: inset 3px 0 0 var(--red); padding-left: 14px; }
+  .top { position: relative; z-index: 20; }
+}
+@media (max-width: 400px) { .chg { display: none; } .top-in { gap: 10px; } .menu-btn { padding: 8px 10px; } }
