@@ -238,7 +238,7 @@
   // ---------- state picker ----------
   function stateChip() {
     var el = document.getElementById("place");
-    if (el) el.innerHTML = chosen() ? '<a href="#start">' + esc(chosen()) + " · Change</a>" : "";
+    if (el) el.innerHTML = chosen() ? '<a href="#start" aria-label="' + esc(chosen()) + ', change state">' + esc(chosen()) + '<span class="chg"> · Change</span></a>' : "";
   }
   function picker(id) {
     return '<label class="pick-label" for="' + id + '">Choose your state</label>' +
@@ -765,6 +765,15 @@
     else home();
     focusMain();
   }
+  var menuBtn = document.getElementById("menuBtn"), navEl = document.getElementById("mainNav");
+  function setMenu(open) { if (!menuBtn) return; navEl.classList.toggle("open", open); menuBtn.setAttribute("aria-expanded", String(open)); menuBtn.querySelector(".menu-label").textContent = open ? "Close" : "Menu"; }
+  if (menuBtn) {
+    menuBtn.addEventListener("click", function (e) { e.stopPropagation(); setMenu(!navEl.classList.contains("open")); });
+    navEl.addEventListener("click", function (e) { if (e.target.closest("a")) setMenu(false); });
+    document.addEventListener("click", function (e) { if (navEl.classList.contains("open") && !navEl.contains(e.target)) setMenu(false); });
+    document.addEventListener("keydown", function (e) { if (e.key === "Escape" && navEl.classList.contains("open")) { setMenu(false); menuBtn.focus(); } });
+  }
+  window.addEventListener("hashchange", function () { setMenu(false); });
   window.addEventListener("hashchange", route);
   route();
 })();
